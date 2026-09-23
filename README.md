@@ -1,36 +1,16 @@
 # An Explainable Policy-Aware Agentic AI Decision Support System for Bank Loan Evaluation Using Machine Learning Predictions
 
 <p align="center">
-  <!-- Core Technologies & AI -->
-  <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3.13-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python 3.13" /></a>
-  <a href="https://streamlit.io/"><img src="https://img.shields.io/badge/Streamlit-App%20Interface-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit" /></a>
-  <a href="https://xgboost.readthedocs.io/"><img src="https://img.shields.io/badge/XGBoost-Primary%20Classifier-2E8B57?style=for-the-badge&logo=xgboost&logoColor=white" alt="XGBoost" /></a>
-  <a href="https://scikit-learn.org/"><img src="https://img.shields.io/badge/scikit--learn-Preprocessing-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="scikit-learn" /></a>
-  <a href="https://catboost.ai/"><img src="https://img.shields.io/badge/CatBoost-Benchmark-FFCC00?style=for-the-badge&labelColor=black&logoColor=black" alt="CatBoost" /></a>
+  <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3.13-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" /></a>
+  <a href="https://streamlit.io/"><img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit" /></a>
+  <a href="https://xgboost.readthedocs.io/"><img src="https://img.shields.io/badge/XGBoost-2E8B57?style=for-the-badge&logo=xgboost&logoColor=white" alt="XGBoost" /></a>
+  <a href="https://shap.readthedocs.io/"><img src="https://img.shields.io/badge/SHAP-0080FF?style=for-the-badge" alt="SHAP" /></a>
 </p>
 <p align="center">
-  <!-- Explainability & RAG -->
-  <a href="https://shap.readthedocs.io/"><img src="https://img.shields.io/badge/SHAP-TreeSHAP%20XAI-0080FF?style=for-the-badge" alt="SHAP" /></a>
-  <a href="https://github.com/marcotcr/lime"><img src="https://img.shields.io/badge/LIME-Local%20Surrogate-32CD32?style=for-the-badge" alt="LIME" /></a>
-  <a href="https://www.trychroma.com/"><img src="https://img.shields.io/badge/ChromaDB-Vector%20Store-FF6F61?style=for-the-badge" alt="ChromaDB" /></a>
-  <a href="https://www.sbert.net/"><img src="https://img.shields.io/badge/Sentence--Transformers-all--MiniLM--L6--v2-FFA500?style=for-the-badge" alt="Sentence Transformers" /></a>
-  <a href="https://groq.com/"><img src="https://img.shields.io/badge/Groq-Llama%203.3%2070B-F55036?style=for-the-badge" alt="Groq" /></a>
-</p>
-<p align="center">
-  <!-- Architecture & Quality -->
-  <a href="https://docs.pydantic.dev/"><img src="https://img.shields.io/badge/Pydantic-v2%20Schemas-E92063?style=for-the-badge&logo=pydantic&logoColor=white" alt="Pydantic" /></a>
-  <a href="https://docs.pytest.org/"><img src="https://img.shields.io/badge/Pytest-15%2F15%20Passed-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white" alt="pytest" /></a>
-  <img src="https://img.shields.io/badge/Policy--RAG-Multi--Document-8A2BE2?style=for-the-badge" alt="Policy RAG" />
-  <img src="https://img.shields.io/badge/Agentic--AI-Central%20Decision%20Agent-00C49F?style=for-the-badge" alt="Central Decision Agent" />
-  <img src="https://img.shields.io/badge/Audit%20Trail-Immutable%20Logging-4682B4?style=for-the-badge" alt="Audit Trail" />
-</p>
-<p align="center">
-  <!-- Status Badges -->
-  <a href="https://opensource.org/licenses/MIT"><img src="https://img.shields.io/badge/License-MIT-green.svg?style=flat-square" alt="License: MIT" /></a>
-  <img src="https://img.shields.io/badge/Python-3.13%2B-blue.svg?style=flat-square" alt="Python 3.13+" />
-  <img src="https://img.shields.io/badge/Tests-15%20Passed%20%7C%200%20Failed-brightgreen.svg?style=flat-square" alt="Tests" />
-  <img src="https://img.shields.io/badge/Role-Credit%20Decision%20Support-informational.svg?style=flat-square" alt="Credit Decision Support" />
-  <img src="https://img.shields.io/badge/Status-Verified%20Research%20Prototype-success.svg?style=flat-square" alt="Verified Prototype" />
+  <a href="https://github.com/marcotcr/lime"><img src="https://img.shields.io/badge/LIME-32CD32?style=for-the-badge" alt="LIME" /></a>
+  <a href="https://www.trychroma.com/"><img src="https://img.shields.io/badge/ChromaDB-FF6F61?style=for-the-badge" alt="ChromaDB" /></a>
+  <img src="https://img.shields.io/badge/RAG-8A2BE2?style=for-the-badge" alt="RAG" />
+  <a href="https://groq.com/"><img src="https://img.shields.io/badge/Groq-F55036?style=for-the-badge" alt="Groq" /></a>
 </p>
 
 ---
