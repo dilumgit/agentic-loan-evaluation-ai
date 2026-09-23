@@ -1,0 +1,92 @@
+{
+  "dataset_name": "loan_evaluation_dataset_3000_v2.csv (Gaussian Copula Augmented)",
+  "dataset_path": "data/synthetic/loan_evaluation_dataset_3000_v2.csv",
+  "dataset_size": 3000,
+  "train_size": 2400,
+  "test_size": 600,
+  "num_features": 55,
+  "scale_pos_weight": 1.1486,
+  "target_distribution": {
+    "Approved": 1396,
+    "Rejected": 1604
+  },
+  "model_configuration": {
+    "model_type": "CatBoostClassifier",
+    "iterations": 300,
+    "depth": 6,
+    "learning_rate": 0.05,
+    "loss_function": "Logloss",
+    "eval_metric": "AUC",
+    "scale_pos_weight": 1.1486,
+    "random_seed": 42,
+    "thread_count": -1
+  },
+  "test_metrics": {
+    "accuracy": 0.6033,
+    "precision": 0.5686,
+    "recall": 0.6093,
+    "f1_score": 0.5882,
+    "roc_auc": 0.6236,
+    "average_precision": 0.557
+  },
+  "confusion_matrix": {
+    "true_negatives": 192,
+    "false_positives": 129,
+    "false_negatives": 109,
+    "true_positives": 170
+  },
+  "cross_validation_5_fold": {
+    "accuracy_mean": 0.5858,
+    "accuracy_std": 0.0279,
+    "precision_mean": 0.5528,
+    "precision_std": 0.0305,
+    "recall_mean": 0.5935,
+    "recall_std": 0.014,
+    "f1_mean": 0.5719,
+    "f1_std": 0.0182,
+    "roc_auc_mean": 0.6348,
+    "roc_auc_std": 0.0219
+  },
+  "top_10_features": [
+    {
+      "Feature": "Requested Loan Amount",
+      "Importance": 10.23699377510799
+    },
+    {
+      "Feature": "Monthly Income",
+      "Importance": 7.823554550158196
+    },
+    {
+      "Feature": "Employment Duration",
+      "Importance": 6.556887617155302
+    },
+    {
+      "Feature": "Number of Dependents",
+      "Importance": 5.74068039575574
+    },
+    {
+      "Feature": "Age Group",
+      "Importance": 5.588262556261863
+    },
+    {
+      "Feature": "Monthly Loan Repayment",
+      "Importance": 5.5831922254468855
+    },
+    {
+      "Feature": "Required Documents Submitted_Yes, all",
+      "Importance": 4.2667032381056975
+    },
+    {
+      "Feature": "Loan Type_Personal",
+      "Importance": 2.7104002419701567
+    },
+    {
+      "Feature": "Collateral Availability_No",
+      "Importance": 2.4430019805645413
+    },
+    {
+      "Feature": "Existing Loan Status_Yes",
+      "Importance": 2.0057987751286386
+    }
+  ]
+}

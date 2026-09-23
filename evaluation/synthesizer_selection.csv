@@ -1,0 +1,4 @@
+Synthesizer,Overall_SDV_Score (%),Column_Shapes_Score (%),Column_Pair_Trends_Score (%),Mean_Cramers_V,Cramers_V_Preservation (%),V_Rank_Correlation (Spearman),Target_Approved (%),Target_Rejected (%),Target_Delta_pp,Internal_Duplicates,Overlap_With_Seed,Missing_Values,100%_Category_Coverage
+CTGAN,82.13,94.6,69.67,0.036,18.74,0.4353,32.52,67.48,13.88,0,0,0,True
+GaussianCopula,85.8,97.85,73.74,0.0773,40.23,0.3853,46.56,53.44,0.16,0,0,0,True
+TVAE,73.79,76.33,71.26,0.2598,135.21,0.6353,43.8,56.2,2.6,522,0,0,False

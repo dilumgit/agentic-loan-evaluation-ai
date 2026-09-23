@@ -1,0 +1,94 @@
+{
+  "dataset_name": "loan_evaluation_dataset_3000_v2.csv (Gaussian Copula Augmented)",
+  "dataset_path": "data/synthetic/loan_evaluation_dataset_3000_v2.csv",
+  "dataset_size": 3000,
+  "train_size": 2400,
+  "test_size": 600,
+  "num_features": 55,
+  "scale_pos_weight": 1.1486,
+  "target_distribution": {
+    "Approved": 1396,
+    "Rejected": 1604
+  },
+  "model_configuration": {
+    "model_type": "XGBClassifier",
+    "objective": "binary:logistic",
+    "n_estimators": 200,
+    "max_depth": 4,
+    "learning_rate": 0.05,
+    "subsample": 0.8,
+    "colsample_bytree": 0.8,
+    "scale_pos_weight": 1.1486,
+    "random_state": 42,
+    "eval_metric": "logloss",
+    "n_jobs": -1
+  },
+  "test_metrics": {
+    "accuracy": 0.62,
+    "precision": 0.5825,
+    "recall": 0.6452,
+    "f1_score": 0.6122,
+    "roc_auc": 0.6468,
+    "average_precision": 0.5818
+  },
+  "confusion_matrix": {
+    "true_negatives": 192,
+    "false_positives": 129,
+    "false_negatives": 99,
+    "true_positives": 180
+  },
+  "cross_validation_5_fold": {
+    "accuracy_mean": 0.5992,
+    "accuracy_std": 0.022,
+    "precision_mean": 0.5643,
+    "precision_std": 0.0244,
+    "recall_mean": 0.6186,
+    "recall_std": 0.0236,
+    "f1_mean": 0.5897,
+    "f1_std": 0.0165,
+    "roc_auc_mean": 0.646,
+    "roc_auc_std": 0.0261
+  },
+  "top_10_features_gain": [
+    {
+      "Feature": "Required Documents Submitted_Yes, all",
+      "Gain_Importance": 0.0865073949098587
+    },
+    {
+      "Feature": "Existing Loan Status_No",
+      "Gain_Importance": 0.029671156778931618
+    },
+    {
+      "Feature": "Loan Type_Education",
+      "Gain_Importance": 0.027644513174891472
+    },
+    {
+      "Feature": "Required Documents Submitted_No, some missing",
+      "Gain_Importance": 0.024606823921203613
+    },
+    {
+      "Feature": "Guarantor Availability_Yes",
+      "Gain_Importance": 0.021581722423434258
+    },
+    {
+      "Feature": "Gender_Male",
+      "Gain_Importance": 0.020183725282549858
+    },
+    {
+      "Feature": "Collateral Availability_No",
+      "Gain_Importance": 0.020068660378456116
+    },
+    {
+      "Feature": "Loan Purpose_Debt consolidation",
+      "Gain_Importance": 0.0198564101010561
+    },
+    {
+      "Feature": "Employment Type_Self-employed",
+      "Gain_Importance": 0.019762055948376656
+    },
+    {
+      "Feature": "Requested Loan Amount",
+      "Gain_Importance": 0.018811402842402458
+    }
+  ]
+}

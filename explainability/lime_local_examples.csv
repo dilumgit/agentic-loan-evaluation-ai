@@ -1,0 +1,76 @@
+Sample Index,Actual Label,Predicted Label,Predicted Probability,Feature,LIME Weight
+0,0,0,0.0201,Monthly Income <= 2.00,-0.241285
+0,0,0,0.0201,2.00 < Requested Loan Amount <= 4.00,-0.101621
+0,0,0,0.0201,"Required Documents Submitted_No, some missing > 0.00",-0.099388
+0,0,0,0.0201,0.00 < Collateral Availability_Yes <= 1.00,0.096007
+0,0,0,0.0201,Monthly Loan Repayment > 2.00,-0.085496
+0,0,0,0.0201,0.00 < Guarantor Availability_No <= 1.00,-0.079551
+0,0,0,0.0201,Employment Type_Other <= 0.00,0.063732
+0,0,0,0.0201,Employment Type_Contract employee <= 0.00,0.055844
+0,0,0,0.0201,Employment Type_Business owner <= 0.00,-0.052435
+0,0,0,0.0201,Marital Status_Divorced <= 0.00,0.051954
+0,0,0,0.0201,Collateral Availability_No <= 0.00,0.042323
+0,0,0,0.0201,Employment Type_Unemployed <= 0.00,0.039357
+0,0,0,0.0201,Education Level_No formal education <= 0.00,0.034455
+0,0,0,0.0201,Loan Purpose_Debt consolidation <= 0.00,0.034414
+0,0,0,0.0201,Education Level_Other <= 0.00,0.028225
+1,0,0,0.0352,Monthly Income <= 2.00,-0.232025
+1,0,0,0.0352,"Required Documents Submitted_No, some missing <= 0.00",0.103015
+1,0,0,0.0352,Collateral Availability_Yes <= 0.00,-0.092765
+1,0,0,0.0352,0.00 < Guarantor Availability_No <= 1.00,-0.066697
+1,0,0,0.0352,Monthly Loan Repayment <= 0.00,0.05623
+1,0,0,0.0352,Gender_Prefer not to say <= 0.00,-0.052708
+1,0,0,0.0352,Employment Type_Business owner <= 0.00,-0.048681
+1,0,0,0.0352,Education Level_Diploma <= 0.00,-0.041322
+1,0,0,0.0352,Employment Type_Contract employee <= 0.00,0.041101
+1,0,0,0.0352,Loan Purpose_Debt consolidation <= 0.00,0.04039
+1,0,0,0.0352,Employment Duration <= 2.00,-0.037089
+1,0,0,0.0352,0.00 < Collateral Availability_No <= 1.00,-0.036878
+1,0,0,0.0352,Employment Type_Unemployed > 0.00,-0.036702
+1,0,0,0.0352,Marital Status_Divorced <= 0.00,0.033494
+1,0,0,0.0352,Loan Type_Education <= 0.00,-0.033291
+2,1,1,0.6926,3.00 < Monthly Income <= 4.00,0.118536
+2,1,1,0.6926,"Required Documents Submitted_No, some missing <= 0.00",0.116619
+2,1,1,0.6926,2.00 < Requested Loan Amount <= 4.00,-0.100224
+2,1,1,0.6926,0.00 < Guarantor Availability_No <= 1.00,-0.094493
+2,1,1,0.6926,Collateral Availability_Yes <= 0.00,-0.090752
+2,1,1,0.6926,Monthly Loan Repayment <= 0.00,0.065969
+2,1,1,0.6926,Employment Type_Unemployed <= 0.00,0.061199
+2,1,1,0.6926,Loan Purpose_Debt consolidation <= 0.00,0.060966
+2,1,1,0.6926,Employment Type_Other <= 0.00,0.04674
+2,1,1,0.6926,0.00 < Collateral Availability_No <= 1.00,-0.041006
+2,1,1,0.6926,Employment Type_Business owner <= 0.00,-0.039026
+2,1,1,0.6926,Employment Type_Contract employee <= 0.00,0.033954
+2,1,1,0.6926,Loan Type_Agricultural <= 0.00,-0.032965
+2,1,1,0.6926,Loan Purpose_Education <= 0.00,-0.030334
+2,1,1,0.6926,Education Level_Diploma <= 0.00,-0.028536
+3,0,0,0.0271,Monthly Income <= 2.00,-0.232691
+3,0,0,0.0271,Requested Loan Amount > 4.00,-0.193435
+3,0,0,0.0271,"Required Documents Submitted_No, some missing <= 0.00",0.102556
+3,0,0,0.0271,0.00 < Collateral Availability_Yes <= 1.00,0.092554
+3,0,0,0.0271,Guarantor Availability_No <= 0.00,0.086124
+3,0,0,0.0271,Monthly Loan Repayment > 2.00,-0.076395
+3,0,0,0.0271,Employment Type_Other <= 0.00,0.069227
+3,0,0,0.0271,Employment Type_Business owner <= 0.00,-0.066966
+3,0,0,0.0271,Employment Type_Unemployed > 0.00,-0.046071
+3,0,0,0.0271,Employment Duration <= 2.00,-0.040237
+3,0,0,0.0271,Employment Type_Contract employee <= 0.00,0.033477
+3,0,0,0.0271,Collateral Availability_No <= 0.00,0.033432
+3,0,0,0.0271,Loan Purpose_Debt consolidation <= 0.00,0.033275
+3,0,0,0.0271,Gender_Female <= 0.00,-0.033056
+3,0,0,0.0271,Marital Status_Divorced <= 0.00,0.028209
+4,0,0,0.0141,Monthly Income <= 2.00,-0.235037
+4,0,0,0.0141,Requested Loan Amount > 4.00,-0.193251
+4,0,0,0.0141,"Required Documents Submitted_No, some missing <= 0.00",0.100067
+4,0,0,0.0141,0.00 < Collateral Availability_Yes <= 1.00,0.09389
+4,0,0,0.0141,Guarantor Availability_No <= 0.00,0.081054
+4,0,0,0.0141,Monthly Loan Repayment > 2.00,-0.078638
+4,0,0,0.0141,Employment Type_Business owner <= 0.00,-0.064723
+4,0,0,0.0141,Employment Type_Contract employee <= 0.00,0.045249
+4,0,0,0.0141,Collateral Availability_No <= 0.00,0.044802
+4,0,0,0.0141,Loan Purpose_Debt consolidation <= 0.00,0.043373
+4,0,0,0.0141,Employment Type_Other <= 0.00,0.041484
+4,0,0,0.0141,Gender_Prefer not to say <= 0.00,-0.03973
+4,0,0,0.0141,Employment Duration <= 2.00,-0.037126
+4,0,0,0.0141,Employment Type_Unemployed > 0.00,-0.034324
+4,0,0,0.0141,Loan Type_Agricultural <= 0.00,-0.031828

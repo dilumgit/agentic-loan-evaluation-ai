@@ -1,0 +1,7 @@
+Model,Cohort,Sample_Count,Mean_Probability,Std_Dev,Min,Q25,Median,Q75,Max
+Random Forest,All Test Samples (N=600),600,0.4382,0.0882,0.185,0.38,0.435,0.495,0.695
+Random Forest,Actual Approved (N=209),209,0.452,0.0863,0.29,0.385,0.445,0.51,0.695
+Random Forest,Actual Rejected (N=391),391,0.4308,0.0883,0.185,0.3775,0.43,0.4925,0.695
+XGBoost,All Test Samples (N=600),600,0.472,0.1185,0.0888,0.3979,0.4707,0.5582,0.824
+XGBoost,Actual Approved (N=209),209,0.486,0.1137,0.2032,0.4063,0.4833,0.5672,0.7962
+XGBoost,Actual Rejected (N=391),391,0.4646,0.1203,0.0888,0.386,0.4686,0.5497,0.824

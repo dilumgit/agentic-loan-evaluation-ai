@@ -1,0 +1,501 @@
+Age Group,Gender,Marital Status,Number of Dependents,Education Level,Employment Type,Employment Duration,Monthly Income,Existing Loan Status,Monthly Loan Repayment,Loan Type,Requested Loan Amount,Loan Purpose,Collateral Availability,Guarantor Availability,Required Documents Submitted,Loan Application Result
+55–64,Male,Married,3,Undergraduate degree,Self-employed,6–10 years,"Rs.400,000–599,999",No,No existing loan,Business,"Rs.10,000,000–24,999,999",Business investment,No,No,"Yes, all",Rejected
+25–34,Male,Single,4,Diploma,Self-employed,Less than 1 year,"Rs.100,000–149,999",No,No existing loan,Personal,"Rs.5,000,000–9,999,999",Medical expenses,No,No,"Yes, all",Rejected
+25–34,Male,Married,1,Undergraduate degree,Private-sector employee,6–10 years,"Rs.100,000–149,999",Yes,"Below Rs.10,000",Business,"Rs.5,000,000–9,999,999",Business investment,Yes,Yes,Not sure,Rejected
+Below 25,Female,Married,2,Undergraduate degree,Self-employed,3–5 years,"Rs.100,000–149,999",No,No existing loan,Other,"Rs.500,000–999,999",Personal expenses,Yes,No,"Yes, all",Approved
+35–44,Female,Single,2,Postgraduate degree,Self-employed,1–2 years,"Rs.100,000–149,999",Yes,"Rs.25,000–49,999",Housing,"Rs.5,000,000–9,999,999",House purchase/construction,Yes,No,"Yes, all",Approved
+35–44,Male,Married,4,Diploma,Private-sector employee,1–2 years,"Rs.150,000–249,999",No,No existing loan,Personal,"Rs.1,000,000–4,999,999",Medical expenses,Yes,No,"Yes, all",Rejected
+25–34,Male,Single,3,Secondary,Private-sector employee,6–10 years,"Rs.250,000–399,999",Yes,"Rs.50,000–74,999",Agricultural,"Below Rs.500,000",Agriculture,No,Yes,"Yes, all",Approved
+35–44,Female,Married,2,Diploma,Self-employed,1–2 years,"Rs.250,000–399,999",No,No existing loan,Agricultural,"Rs.1,000,000–4,999,999",Agriculture,Yes,No,"Yes, all",Rejected
+45–54,Male,Married,2,Undergraduate degree,Self-employed,6–10 years,"Rs.250,000–399,999",No,No existing loan,Vehicle,"Rs.1,000,000–4,999,999",Vehicle purchase,Yes,No,"Yes, all",Approved
+25–34,Female,Married,1,Postgraduate degree,Private-sector employee,3–5 years,"Rs.100,000–149,999",No,No existing loan,Other,"Rs.5,000,000–9,999,999",Business investment,No,No,"Yes, all",Rejected
+25–34,Male,Married,0,Diploma,Self-employed,3–5 years,"Rs.250,000–399,999",Yes,"Below Rs.10,000",Personal,"Rs.5,000,000–9,999,999",Medical expenses,Yes,No,"Yes, all",Rejected
+Below 25,Male,Single,0,Diploma,Self-employed,3–5 years,"Rs.100,000–149,999",No,No existing loan,Housing,"Rs.25,000,000–49,999,999",House purchase/construction,No,No,Not sure,Rejected
+45–54,Female,Married,0,Undergraduate degree,Retired,Not employed/business,"Rs.50,000–99,999",No,No existing loan,Agricultural,"Below Rs.500,000",Agriculture,No,Yes,"Yes, all",Approved
+25–34,Male,Married,0,Undergraduate degree,Private-sector employee,More than 10 years,"Rs.150,000–249,999",No,No existing loan,Housing,"Rs.25,000,000–49,999,999",House purchase/construction,Yes,Yes,Not sure,Rejected
+25–34,Male,Married,0,Diploma,Self-employed,6–10 years,"Rs.400,000–599,999",No,No existing loan,Personal,"Rs.25,000,000–49,999,999",Personal expenses,Yes,No,"Yes, all",Approved
+Below 25,Male,Married,0,Secondary,Self-employed,6–10 years,"Rs.100,000–149,999",Yes,"Rs.75,000–99,999",Vehicle,"Rs.1,000,000–4,999,999",Vehicle purchase,Yes,No,"Yes, all",Rejected
+25–34,Male,Married,1,Undergraduate degree,Contract employee,Less than 1 year,"Rs.1,000,000 or above",Yes,"Rs.25,000–49,999",Education,"Below Rs.500,000",Education,Yes,Yes,"Yes, all",Approved
+Below 25,Female,Prefer not to say,0,Undergraduate degree,Contract employee,6–10 years,"Rs.50,000–99,999",No,No existing loan,Business,"Rs.25,000,000–49,999,999",Business investment,Yes,No,Not sure,Rejected
+25–34,Female,Single,2,Diploma,Contract employee,3–5 years,"Rs.150,000–249,999",No,No existing loan,Personal,"Rs.1,000,000–4,999,999",Personal expenses,No,Yes,"Yes, all",Approved
+25–34,Female,Married,3,Secondary,Private-sector employee,1–2 years,"Rs.150,000–249,999",No,No existing loan,Housing,"Rs.75,000,000–99,999,999",House purchase/construction,Yes,Yes,"Yes, all",Rejected
+35–44,Male,Married,1,Undergraduate degree,Self-employed,1–2 years,"Rs.400,000–599,999",No,No existing loan,Housing,"Rs.10,000,000–24,999,999",House purchase/construction,Yes,No,Not sure,Rejected
+25–34,Male,Single,1,Undergraduate degree,Private-sector employee,3–5 years,"Rs.100,000–149,999",Yes,"Rs.25,000–49,999",Agricultural,"Rs.500,000–999,999",Agriculture,Yes,No,"Yes, all",Approved
+55–64,Male,Married,0,Diploma,Private-sector employee,More than 10 years,"Rs.100,000–149,999",Yes,"Below Rs.10,000",Personal,"Below Rs.500,000",Personal expenses,No,No,"Yes, all",Approved
+35–44,Male,Single,0,Secondary,Contract employee,6–10 years,"Rs.250,000–399,999",Yes,"Rs.50,000–74,999",Vehicle,"Rs.5,000,000–9,999,999",Vehicle purchase,No,No,"Yes, all",Rejected
+25–34,Female,Single,3,Undergraduate degree,Private-sector employee,More than 10 years,"Rs.100,000–149,999",No,No existing loan,Business,"Rs.10,000,000–24,999,999",Business investment,Yes,Yes,"Yes, all",Approved
+65 or above,Female,Single,2,Undergraduate degree,Unemployed,Not employed/business,"Rs.50,000–99,999",Yes,"Rs.50,000–74,999",Personal,"Rs.1,000,000–4,999,999",Other,No,Yes,Not sure,Rejected
+35–44,Female,Married,2,Secondary,Government employee,6–10 years,"Rs.400,000–599,999",No,No existing loan,Personal,"Rs.25,000,000–49,999,999",Debt consolidation,No,No,"Yes, all",Rejected
+55–64,Female,Married,0,Diploma,Private-sector employee,6–10 years,"Rs.150,000–249,999",No,No existing loan,Vehicle,"Rs.1,000,000–4,999,999",Vehicle purchase,No,No,"Yes, all",Approved
+35–44,Female,Married,3,Undergraduate degree,Retired,Not employed/business,"Rs.150,000–249,999",No,No existing loan,Business,"Rs.75,000,000–99,999,999",Business investment,Yes,No,"Yes, all",Rejected
+35–44,Female,Married,0,Postgraduate degree,Private-sector employee,6–10 years,"Rs.1,000,000 or above",No,No existing loan,Agricultural,"Rs.1,000,000–4,999,999",Agriculture,Yes,Yes,"Yes, all",Approved
+35–44,Male,Married,0,Secondary,Government employee,6–10 years,"Rs.150,000–249,999",No,No existing loan,Housing,"Rs.1,000,000–4,999,999",House purchase/construction,No,No,Not sure,Rejected
+45–54,Female,Married,0,Postgraduate degree,Business owner,3–5 years,"Rs.100,000–149,999",No,No existing loan,Personal,"Rs.5,000,000–9,999,999",Personal expenses,Yes,No,"Yes, all",Approved
+25–34,Male,Married,1,Postgraduate degree,Business owner,6–10 years,"Rs.150,000–249,999",No,No existing loan,Vehicle,"Rs.500,000–999,999",Vehicle purchase,Yes,No,"Yes, all",Approved
+55–64,Male,Divorced,1,Undergraduate degree,Self-employed,3–5 years,"Rs.50,000–99,999",Yes,"Rs.25,000–49,999",Personal,"Below Rs.500,000",Other,Yes,No,"Yes, all",Rejected
+55–64,Male,Single,0,Secondary,Self-employed,More than 10 years,"Rs.150,000–249,999",Yes,"Rs.25,000–49,999",Housing,"Rs.75,000,000–99,999,999",House purchase/construction,Yes,No,"No, some missing",Rejected
+45–54,Male,Single,0,Diploma,Government employee,3–5 years,"Rs.400,000–599,999",Yes,"Rs.100,000+",Personal,"Rs.5,000,000–9,999,999",Medical expenses,Yes,No,"Yes, all",Approved
+45–54,Male,Married,2,Postgraduate degree,Unemployed,Not employed/business,"Below Rs.50,000",No,No existing loan,Education,"Rs.1,000,000–4,999,999",Education,Yes,Yes,"Yes, all",Rejected
+55–64,Female,Married,1,Undergraduate degree,Government employee,Less than 1 year,"Rs.100,000–149,999",No,No existing loan,Personal,"Rs.500,000–999,999",Personal expenses,Not applicable / Not required,Yes,Not sure,Rejected
+Below 25,Male,Married,2,Secondary,Private-sector employee,1–2 years,"Rs.100,000–149,999",No,No existing loan,Education,"Rs.1,000,000–4,999,999",Education,No,No,"Yes, all",Rejected
+45–54,Female,Single,2,Undergraduate degree,Contract employee,Less than 1 year,"Rs.100,000–149,999",No,No existing loan,Personal,"Rs.50,000,000–74,999,999",Personal expenses,Yes,Yes,Not sure,Rejected
+25–34,Prefer not to say,Married,3,Diploma,Private-sector employee,6–10 years,"Rs.150,000–249,999",Yes,"Rs.75,000–99,999",Agricultural,"Rs.1,000,000–4,999,999",Agriculture,Yes,Yes,"Yes, all",Rejected
+25–34,Male,Single,1,Undergraduate degree,Other,More than 10 years,"Rs.100,000–149,999",Yes,"Rs.10,000–24,999",Housing,"Rs.5,000,000–9,999,999",House purchase/construction,Yes,Yes,"Yes, all",Approved
+45–54,Male,Single,2,Diploma,Contract employee,More than 10 years,"Rs.1,000,000 or above",No,No existing loan,Personal,"Rs.1,000,000–4,999,999",Debt consolidation,Yes,No,"Yes, all",Approved
+45–54,Male,Married,2,Undergraduate degree,Unemployed,Not employed/business,"Below Rs.50,000",No,No existing loan,Personal,"Rs.5,000,000–9,999,999",Medical expenses,Yes,No,"Yes, all",Rejected
+25–34,Male,Married,0,Diploma,Contract employee,More than 10 years,"Rs.400,000–599,999",Yes,"Rs.10,000–24,999",Personal,"Rs.5,000,000–9,999,999",Other,Yes,Yes,"Yes, all",Approved
+35–44,Female,Single,2,Secondary,Business owner,More than 10 years,"Rs.250,000–399,999",No,No existing loan,Business,"Rs.1,000,000–4,999,999",Business investment,Yes,Yes,"Yes, all",Approved
+25–34,Male,Married,0,Undergraduate degree,Contract employee,3–5 years,"Rs.150,000–249,999",No,No existing loan,Housing,"Rs.5,000,000–9,999,999",House purchase/construction,No,Yes,"Yes, all",Rejected
+25–34,Male,Married,0,Diploma,Business owner,3–5 years,"Rs.400,000–599,999",No,No existing loan,Housing,"Rs.25,000,000–49,999,999",House purchase/construction,Yes,No,"Yes, all",Approved
+35–44,Male,Married,1,Undergraduate degree,Private-sector employee,1–2 years,"Rs.100,000–149,999",No,No existing loan,Housing,"Rs.25,000,000–49,999,999",House purchase/construction,Yes,No,"Yes, all",Rejected
+25–34,Male,Single,0,Secondary,Contract employee,6–10 years,"Rs.50,000–99,999",Yes,"Rs.75,000–99,999",Agricultural,"Rs.1,000,000–4,999,999",Agriculture,No,Yes,"Yes, all",Rejected
+35–44,Female,Married,3,Undergraduate degree,Self-employed,6–10 years,"Rs.250,000–399,999",No,No existing loan,Agricultural,"Rs.5,000,000–9,999,999",Agriculture,Yes,No,"Yes, all",Approved
+35–44,Female,Single,1,Secondary,Unemployed,Not employed/business,"Rs.50,000–99,999",No,No existing loan,Housing,"Rs.50,000,000–74,999,999",House purchase/construction,Yes,No,"No, some missing",Rejected
+25–34,Male,Widowed,2,Secondary,Private-sector employee,More than 10 years,"Rs.250,000–399,999",No,No existing loan,Other,"Below Rs.500,000",Business investment,Yes,Yes,"Yes, all",Approved
+Below 25,Female,Married,2,Undergraduate degree,Business owner,More than 10 years,"Rs.1,000,000 or above",No,No existing loan,Housing,"Rs.50,000,000–74,999,999",House purchase/construction,Yes,No,"Yes, all",Approved
+35–44,Female,Married,0,Undergraduate degree,Contract employee,3–5 years,"Rs.150,000–249,999",Yes,"Rs.25,000–49,999",Personal,"Rs.5,000,000–9,999,999",Personal expenses,No,Yes,"Yes, all",Approved
+65 or above,Female,Married,1,Secondary,Retired,Not employed/business,"Rs.400,000–599,999",No,No existing loan,Housing,"Rs.10,000,000–24,999,999",House purchase/construction,Yes,No,"Yes, all",Rejected
+45–54,Female,Single,1,Undergraduate degree,Business owner,1–2 years,"Rs.400,000–599,999",No,No existing loan,Business,"Rs.10,000,000–24,999,999",Business investment,No,No,"No, some missing",Rejected
+25–34,Male,Single,2,Undergraduate degree,Self-employed,6–10 years,"Rs.50,000–99,999",No,No existing loan,Vehicle,"Rs.1,000,000–4,999,999",Vehicle purchase,No,No,"Yes, all",Rejected
+35–44,Male,Married,1,Undergraduate degree,Private-sector employee,1–2 years,"Rs.150,000–249,999",Yes,"Rs.50,000–74,999",Personal,"Rs.500,000–999,999",Other,No,Yes,"Yes, all",Rejected
+55–64,Male,Married,0,Diploma,Business owner,More than 10 years,"Rs.100,000–149,999",No,No existing loan,Agricultural,"Rs.500,000–999,999",Agriculture,No,No,"Yes, all",Rejected
+25–34,Female,Married,1,Undergraduate degree,Private-sector employee,3–5 years,"Rs.50,000–99,999",No,No existing loan,Personal,"Below Rs.500,000",Medical expenses,No,Yes,"Yes, all",Rejected
+25–34,Female,Married,1,Diploma,Unemployed,Not employed/business,"Below Rs.50,000",No,No existing loan,Other,"Below Rs.500,000",Agriculture,No,No,"Yes, all",Rejected
+25–34,Male,Married,1,Diploma,Private-sector employee,Less than 1 year,"Rs.50,000–99,999",No,No existing loan,Other,"Below Rs.500,000",Debt consolidation,No,No,"Yes, all",Approved
+Below 25,Male,Married,2,Undergraduate degree,Unemployed,Not employed/business,"Rs.50,000–99,999",No,No existing loan,Agricultural,"Rs.1,000,000–4,999,999",Agriculture,No,Yes,"Yes, all",Rejected
+45–54,Male,Single,3,Undergraduate degree,Private-sector employee,3–5 years,"Rs.150,000–249,999",No,No existing loan,Vehicle,"Rs.1,000,000–4,999,999",Vehicle purchase,Yes,No,"Yes, all",Rejected
+35–44,Female,Prefer not to say,1,Diploma,Self-employed,3–5 years,"Rs.250,000–399,999",Yes,"Rs.25,000–49,999",Housing,"Rs.5,000,000–9,999,999",House purchase/construction,Yes,No,"Yes, all",Approved
+45–54,Female,Single,1,Postgraduate degree,Government employee,More than 10 years,"Rs.1,000,000 or above",No,No existing loan,Personal,"Below Rs.500,000",Medical expenses,Not applicable / Not required,No,"Yes, all",Approved
+25–34,Female,Widowed,3,Diploma,Unemployed,Not employed/business,"Rs.50,000–99,999",No,No existing loan,Housing,"Rs.1,000,000–4,999,999",House purchase/construction,Yes,Yes,"No, some missing",Rejected
+25–34,Female,Single,1,Diploma,Private-sector employee,3–5 years,"Rs.600,000–999,999",Yes,"Rs.75,000–99,999",Vehicle,"Rs.5,000,000–9,999,999",Vehicle purchase,No,No,"Yes, all",Approved
+25–34,Male,Married,0,Diploma,Business owner,3–5 years,"Rs.600,000–999,999",Yes,"Rs.25,000–49,999",Personal,"Rs.500,000–999,999",Personal expenses,Not applicable / Not required,Yes,"Yes, all",Approved
+45–54,Female,Married,1,Secondary,Self-employed,3–5 years,"Rs.250,000–399,999",No,No existing loan,Housing,"Rs.25,000,000–49,999,999",House purchase/construction,Yes,No,"Yes, all",Approved
+45–54,Male,Widowed,1,Undergraduate degree,Private-sector employee,3–5 years,"Rs.400,000–599,999",No,No existing loan,Housing,"Rs.75,000,000–99,999,999",House purchase/construction,Yes,No,Not sure,Rejected
+25–34,Male,Married,2,Undergraduate degree,Government employee,3–5 years,"Rs.600,000–999,999",No,No existing loan,Business,"Rs.10,000,000–24,999,999",Business investment,No,Yes,"Yes, all",Approved
+45–54,Male,Single,2,Undergraduate degree,Government employee,3–5 years,"Rs.250,000–399,999",Yes,"Rs.25,000–49,999",Business,"Rs.5,000,000–9,999,999",Business investment,No,No,"Yes, all",Rejected
+35–44,Male,Single,3,Undergraduate degree,Other,6–10 years,"Rs.150,000–249,999",Yes,"Rs.50,000–74,999",Housing,"Rs.50,000,000–74,999,999",House purchase/construction,No,No,"Yes, all",Rejected
+25–34,Male,Prefer not to say,2,Diploma,Self-employed,1–2 years,"Rs.250,000–399,999",No,No existing loan,Personal,"Rs.500,000–999,999",Medical expenses,Not applicable / Not required,No,"Yes, all",Approved
+45–54,Male,Divorced,2,Undergraduate degree,Private-sector employee,6–10 years,"Rs.100,000–149,999",No,No existing loan,Vehicle,"Rs.1,000,000–4,999,999",Vehicle purchase,No,No,"Yes, all",Rejected
+35–44,Male,Single,2,Postgraduate degree,Private-sector employee,1–2 years,"Rs.100,000–149,999",No,No existing loan,Personal,"Rs.1,000,000–4,999,999",Other,No,No,"Yes, all",Rejected
+35–44,Male,Single,3,Undergraduate degree,Private-sector employee,6–10 years,"Rs.250,000–399,999",No,No existing loan,Housing,"Rs.10,000,000–24,999,999",House purchase/construction,Yes,Yes,"Yes, all",Approved
+55–64,Male,Single,1,Postgraduate degree,Private-sector employee,More than 10 years,"Rs.150,000–249,999",No,No existing loan,Housing,"Rs.10,000,000–24,999,999",House purchase/construction,Yes,Yes,"No, some missing",Rejected
+35–44,Male,Married,2,Secondary,Private-sector employee,3–5 years,"Rs.250,000–399,999",No,No existing loan,Personal,"Below Rs.500,000",Personal expenses,No,No,"Yes, all",Rejected
+25–34,Female,Single,3,Undergraduate degree,Contract employee,More than 10 years,"Rs.400,000–599,999",No,No existing loan,Other,"Rs.500,000–999,999",Other,No,No,Not sure,Rejected
+45–54,Female,Married,3,Postgraduate degree,Private-sector employee,1–2 years,"Rs.250,000–399,999",No,No existing loan,Agricultural,"Rs.1,000,000–4,999,999",Agriculture,Yes,Yes,"No, some missing",Rejected
+35–44,Female,Married,0,Undergraduate degree,Self-employed,3–5 years,"Rs.150,000–249,999",No,No existing loan,Agricultural,"Below Rs.500,000",Agriculture,Yes,No,"Yes, all",Approved
+45–54,Female,Single,3,Undergraduate degree,Business owner,6–10 years,"Rs.50,000–99,999",Yes,"Rs.100,000+",Housing,"Rs.25,000,000–49,999,999",House purchase/construction,Yes,Yes,"No, some missing",Rejected
+45–54,Male,Single,0,Undergraduate degree,Business owner,6–10 years,"Rs.600,000–999,999",Yes,"Rs.50,000–74,999",Personal,"Below Rs.500,000",Other,No,No,"Yes, all",Approved
+45–54,Male,Divorced,4,Secondary,Self-employed,Less than 1 year,"Rs.400,000–599,999",No,No existing loan,Personal,"Rs.500,000–999,999",Personal expenses,Not applicable / Not required,Yes,"Yes, all",Approved
+55–64,Female,Single,1,Diploma,Private-sector employee,1–2 years,"Rs.50,000–99,999",No,No existing loan,Education,"Below Rs.500,000",Education,Yes,Yes,"Yes, all",Approved
+35–44,Female,Single,5 or more,Postgraduate degree,Business owner,3–5 years,"Rs.150,000–249,999",Yes,"Below Rs.10,000",Other,"Rs.500,000–999,999",Business investment,No,No,"Yes, all",Approved
+35–44,Male,Married,3,Undergraduate degree,Government employee,3–5 years,"Rs.100,000–149,999",Yes,"Rs.50,000–74,999",Housing,"Rs.25,000,000–49,999,999",House purchase/construction,Yes,No,"Yes, all",Rejected
+45–54,Female,Married,2,Secondary,Self-employed,More than 10 years,"Rs.150,000–249,999",No,No existing loan,Vehicle,"Rs.1,000,000–4,999,999",Vehicle purchase,No,No,"Yes, all",Approved
+35–44,Male,Married,0,Secondary,Business owner,Less than 1 year,"Rs.100,000–149,999",No,No existing loan,Housing,"Rs.1,000,000–4,999,999",House purchase/construction,No,No,Not sure,Rejected
+25–34,Male,Married,1,Undergraduate degree,Contract employee,More than 10 years,"Rs.100,000–149,999",Yes,"Rs.10,000–24,999",Personal,"Rs.5,000,000–9,999,999",Other,Yes,No,"Yes, all",Rejected
+25–34,Male,Single,3,Secondary,Government employee,1–2 years,"Rs.150,000–249,999",No,No existing loan,Personal,"Rs.500,000–999,999",Other,Yes,No,"Yes, all",Approved
+45–54,Male,Married,1,Undergraduate degree,Business owner,6–10 years,"Rs.150,000–249,999",Yes,"Rs.50,000–74,999",Business,"Rs.25,000,000–49,999,999",Business investment,Yes,No,"Yes, all",Rejected
+55–64,Male,Single,1,Secondary,Government employee,Less than 1 year,"Rs.250,000–399,999",No,No existing loan,Agricultural,"Rs.10,000,000–24,999,999",Agriculture,Yes,No,"Yes, all",Approved
+25–34,Male,Single,1,Secondary,Self-employed,1–2 years,"Rs.400,000–599,999",Yes,"Rs.10,000–24,999",Housing,"Rs.10,000,000–24,999,999",House purchase/construction,No,Yes,"Yes, all",Rejected
+Below 25,Male,Single,1,Postgraduate degree,Business owner,6–10 years,"Rs.600,000–999,999",No,No existing loan,Personal,"Rs.500,000–999,999",Other,Not applicable / Not required,No,"Yes, all",Approved
+35–44,Female,Married,0,Diploma,Business owner,More than 10 years,"Rs.600,000–999,999",No,No existing loan,Education,"Rs.500,000–999,999",Education,No,No,"Yes, all",Approved
+25–34,Male,Widowed,0,Diploma,Private-sector employee,3–5 years,"Rs.400,000–599,999",Yes,"Below Rs.10,000",Vehicle,"Rs.1,000,000–4,999,999",Vehicle purchase,Yes,No,"Yes, all",Approved
+25–34,Female,Married,2,Secondary,Contract employee,More than 10 years,"Rs.50,000–99,999",No,No existing loan,Vehicle,"Rs.1,000,000–4,999,999",Vehicle purchase,No,Yes,"Yes, all",Rejected
+55–64,Female,Married,2,Diploma,Private-sector employee,1–2 years,"Rs.100,000–149,999",No,No existing loan,Vehicle,"Rs.1,000,000–4,999,999",Vehicle purchase,Yes,No,"Yes, all",Approved
+35–44,Male,Married,1,Diploma,Business owner,Less than 1 year,"Rs.150,000–249,999",No,No existing loan,Vehicle,"Rs.500,000–999,999",Vehicle purchase,Yes,No,"Yes, all",Rejected
+35–44,Male,Married,2,Diploma,Business owner,3–5 years,"Rs.250,000–399,999",No,No existing loan,Housing,"Rs.75,000,000–99,999,999",House purchase/construction,Yes,No,"Yes, all",Rejected
+25–34,Male,Married,2,Secondary,Retired,Not employed/business,"Rs.100,000–149,999",No,No existing loan,Business,"Rs.100,000,000 or above",Business investment,No,No,"Yes, all",Rejected
+35–44,Male,Married,2,Diploma,Business owner,6–10 years,"Rs.50,000–99,999",No,No existing loan,Personal,"Below Rs.500,000",Other,No,No,"Yes, all",Rejected
+25–34,Male,Single,2,Postgraduate degree,Business owner,3–5 years,"Rs.400,000–599,999",No,No existing loan,Business,"Rs.10,000,000–24,999,999",Business investment,No,No,"Yes, all",Approved
+35–44,Male,Married,0,Undergraduate degree,Government employee,1–2 years,"Rs.150,000–249,999",Yes,"Rs.50,000–74,999",Personal,"Rs.1,000,000–4,999,999",Debt consolidation,No,Yes,"Yes, all",Rejected
+35–44,Female,Married,5 or more,Undergraduate degree,Business owner,Less than 1 year,"Rs.600,000–999,999",No,No existing loan,Personal,"Below Rs.500,000",Personal expenses,No,No,"Yes, all",Approved
+45–54,Female,Married,2,Undergraduate degree,Private-sector employee,1–2 years,"Rs.400,000–599,999",No,No existing loan,Business,"Rs.5,000,000–9,999,999",Business investment,Yes,No,"Yes, all",Approved
+45–54,Male,Married,0,Secondary,Government employee,Less than 1 year,"Rs.400,000–599,999",No,No existing loan,Housing,"Rs.10,000,000–24,999,999",House purchase/construction,No,No,"Yes, all",Approved
+35–44,Male,Single,0,Secondary,Business owner,6–10 years,"Rs.1,000,000 or above",No,No existing loan,Personal,"Rs.1,000,000–4,999,999",Debt consolidation,Yes,No,"Yes, all",Approved
+45–54,Female,Married,1,Postgraduate degree,Private-sector employee,More than 10 years,"Rs.150,000–249,999",Yes,"Rs.50,000–74,999",Vehicle,"Rs.5,000,000–9,999,999",Vehicle purchase,No,Yes,"Yes, all",Rejected
+55–64,Female,Divorced,3,Undergraduate degree,Government employee,1–2 years,"Rs.150,000–249,999",No,No existing loan,Agricultural,"Rs.500,000–999,999",Agriculture,No,No,"Yes, all",Rejected
+35–44,Female,Single,1,Undergraduate degree,Business owner,6–10 years,"Rs.400,000–599,999",No,No existing loan,Vehicle,"Rs.1,000,000–4,999,999",Vehicle purchase,Yes,No,"Yes, all",Approved
+55–64,Female,Single,0,Secondary,Unemployed,Not employed/business,"Below Rs.50,000",Yes,"Rs.10,000–24,999",Vehicle,"Rs.500,000–999,999",Vehicle purchase,No,No,"Yes, all",Rejected
+25–34,Male,Single,3,Undergraduate degree,Business owner,3–5 years,"Rs.600,000–999,999",No,No existing loan,Housing,"Rs.50,000,000–74,999,999",House purchase/construction,Yes,No,"Yes, all",Approved
+Below 25,Female,Single,1,Other,Government employee,More than 10 years,"Rs.150,000–249,999",Yes,"Rs.75,000–99,999",Personal,"Rs.500,000–999,999",Other,Not applicable / Not required,No,"Yes, all",Rejected
+25–34,Male,Single,3,No formal education,Contract employee,3–5 years,"Rs.150,000–249,999",Yes,"Below Rs.10,000",Personal,"Rs.500,000–999,999",Medical expenses,No,No,"Yes, all",Approved
+55–64,Male,Married,1,Undergraduate degree,Contract employee,3–5 years,"Rs.150,000–249,999",Yes,"Rs.50,000–74,999",Housing,"Rs.25,000,000–49,999,999",House purchase/construction,No,No,"Yes, all",Rejected
+35–44,Male,Married,0,Diploma,Contract employee,More than 10 years,"Rs.100,000–149,999",Yes,"Rs.10,000–24,999",Agricultural,"Rs.5,000,000–9,999,999",Agriculture,No,Yes,"Yes, all",Rejected
+35–44,Female,Widowed,2,Undergraduate degree,Private-sector employee,6–10 years,"Rs.150,000–249,999",Yes,"Rs.75,000–99,999",Education,"Rs.500,000–999,999",Education,No,Yes,"Yes, all",Approved
+35–44,Female,Married,2,Secondary,Business owner,3–5 years,"Rs.100,000–149,999",Yes,"Rs.10,000–24,999",Personal,"Rs.500,000–999,999",Personal expenses,Not applicable / Not required,No,"Yes, all",Rejected
+25–34,Female,Married,4,Undergraduate degree,Business owner,1–2 years,"Rs.150,000–249,999",No,No existing loan,Housing,"Rs.100,000,000 or above",House purchase/construction,Yes,No,"No, some missing",Rejected
+55–64,Female,Divorced,2,Postgraduate degree,Government employee,Less than 1 year,"Rs.150,000–249,999",No,No existing loan,Personal,"Rs.500,000–999,999",Other,Yes,No,"Yes, all",Approved
+Below 25,Female,Married,1,No formal education,Contract employee,Less than 1 year,"Rs.600,000–999,999",No,No existing loan,Personal,"Rs.500,000–999,999",Medical expenses,Not applicable / Not required,No,"Yes, all",Approved
+35–44,Male,Married,5 or more,Diploma,Self-employed,More than 10 years,"Rs.400,000–599,999",No,No existing loan,Personal,"Rs.1,000,000–4,999,999",Personal expenses,No,No,"Yes, all",Approved
+45–54,Male,Married,1,Secondary,Private-sector employee,3–5 years,"Rs.100,000–149,999",No,No existing loan,Business,"Rs.25,000,000–49,999,999",Business investment,Yes,No,"No, some missing",Rejected
+25–34,Female,Single,3,Postgraduate degree,Private-sector employee,1–2 years,"Rs.250,000–399,999",Yes,"Rs.10,000–24,999",Vehicle,"Rs.500,000–999,999",Vehicle purchase,No,Yes,"Yes, all",Rejected
+25–34,Male,Married,2,Diploma,Business owner,1–2 years,"Rs.400,000–599,999",No,No existing loan,Personal,"Below Rs.500,000",Medical expenses,Yes,No,"Yes, all",Approved
+45–54,Female,Married,0,Secondary,Contract employee,More than 10 years,"Rs.50,000–99,999",No,No existing loan,Agricultural,"Rs.500,000–999,999",Agriculture,Yes,Yes,"Yes, all",Approved
+25–34,Male,Single,0,Diploma,Self-employed,3–5 years,"Rs.100,000–149,999",No,No existing loan,Housing,"Rs.10,000,000–24,999,999",House purchase/construction,No,No,"Yes, all",Rejected
+25–34,Female,Married,4,Undergraduate degree,Self-employed,More than 10 years,"Rs.50,000–99,999",No,No existing loan,Vehicle,"Rs.5,000,000–9,999,999",Vehicle purchase,No,No,"Yes, all",Rejected
+35–44,Male,Married,2,Undergraduate degree,Unemployed,Not employed/business,"Below Rs.50,000",Yes,"Rs.25,000–49,999",Housing,"Rs.5,000,000–9,999,999",House purchase/construction,Yes,No,Not sure,Rejected
+55–64,Female,Married,1,Secondary,Self-employed,More than 10 years,"Rs.1,000,000 or above",No,No existing loan,Business,"Rs.25,000,000–49,999,999",Business investment,Yes,Yes,"Yes, all",Approved
+25–34,Female,Married,4,Diploma,Self-employed,1–2 years,"Rs.1,000,000 or above",Yes,"Rs.50,000–74,999",Personal,"Rs.1,000,000–4,999,999",Medical expenses,Yes,No,Not sure,Approved
+35–44,Male,Married,5 or more,Undergraduate degree,Self-employed,3–5 years,"Rs.50,000–99,999",No,No existing loan,Other,"Rs.1,000,000–4,999,999",Debt consolidation,No,Yes,"No, some missing",Rejected
+35–44,Female,Married,1,Undergraduate degree,Unemployed,Not employed/business,"Below Rs.50,000",No,No existing loan,Personal,"Below Rs.500,000",Debt consolidation,No,No,"Yes, all",Rejected
+25–34,Male,Married,1,Undergraduate degree,Self-employed,1–2 years,"Rs.400,000–599,999",No,No existing loan,Vehicle,"Rs.500,000–999,999",Vehicle purchase,Yes,No,"Yes, all",Approved
+Below 25,Female,Single,3,Diploma,Business owner,More than 10 years,"Rs.250,000–399,999",No,No existing loan,Vehicle,"Rs.500,000–999,999",Vehicle purchase,No,No,"Yes, all",Rejected
+55–64,Male,Married,0,Undergraduate degree,Private-sector employee,More than 10 years,"Rs.150,000–249,999",Yes,"Rs.10,000–24,999",Vehicle,"Rs.500,000–999,999",Vehicle purchase,No,Yes,"Yes, all",Approved
+25–34,Male,Married,0,Undergraduate degree,Contract employee,6–10 years,"Rs.400,000–599,999",Yes,"Rs.75,000–99,999",Business,"Rs.75,000,000–99,999,999",Business investment,Yes,No,"Yes, all",Rejected
+Below 25,Female,Single,4,Other,Business owner,3–5 years,"Rs.250,000–399,999",No,No existing loan,Business,"Rs.25,000,000–49,999,999",Business investment,Yes,No,"Yes, all",Approved
+45–54,Male,Married,1,Diploma,Retired,Not employed/business,"Rs.150,000–249,999",No,No existing loan,Personal,"Rs.50,000,000–74,999,999",Medical expenses,No,No,"Yes, all",Rejected
+45–54,Female,Divorced,2,Diploma,Contract employee,3–5 years,"Rs.150,000–249,999",No,No existing loan,Education,"Rs.1,000,000–4,999,999",Education,No,No,"Yes, all",Rejected
+35–44,Female,Widowed,0,Diploma,Other,3–5 years,"Rs.150,000–249,999",Yes,"Rs.50,000–74,999",Personal,"Rs.1,000,000–4,999,999",Debt consolidation,Yes,No,"Yes, all",Rejected
+Below 25,Female,Married,4,Secondary,Business owner,3–5 years,"Rs.250,000–399,999",Yes,"Rs.50,000–74,999",Agricultural,"Rs.500,000–999,999",Agriculture,No,Yes,"Yes, all",Approved
+55–64,Male,Divorced,0,Postgraduate degree,Unemployed,Not employed/business,"Rs.50,000–99,999",No,No existing loan,Housing,"Rs.10,000,000–24,999,999",House purchase/construction,Yes,Yes,"Yes, all",Rejected
+25–34,Male,Single,3,Undergraduate degree,Self-employed,More than 10 years,"Rs.50,000–99,999",No,No existing loan,Vehicle,"Rs.5,000,000–9,999,999",Vehicle purchase,Yes,No,"Yes, all",Rejected
+55–64,Female,Married,3,Undergraduate degree,Contract employee,6–10 years,"Rs.250,000–399,999",Yes,"Rs.10,000–24,999",Personal,"Rs.5,000,000–9,999,999",Personal expenses,No,No,"Yes, all",Approved
+35–44,Male,Divorced,3,Undergraduate degree,Unemployed,Not employed/business,"Rs.50,000–99,999",No,No existing loan,Housing,"Rs.5,000,000–9,999,999",House purchase/construction,Yes,No,"Yes, all",Approved
+25–34,Female,Married,0,Diploma,Private-sector employee,1–2 years,"Rs.100,000–149,999",No,No existing loan,Housing,"Rs.25,000,000–49,999,999",House purchase/construction,No,No,"Yes, all",Approved
+25–34,Female,Prefer not to say,5 or more,Postgraduate degree,Private-sector employee,More than 10 years,"Rs.150,000–249,999",No,No existing loan,Personal,"Rs.1,000,000–4,999,999",Other,Yes,Yes,"No, some missing",Approved
+45–54,Male,Married,1,Secondary,Unemployed,Not employed/business,"Rs.100,000–149,999",No,No existing loan,Personal,"Below Rs.500,000",Debt consolidation,No,No,"Yes, all",Rejected
+25–34,Male,Married,1,Secondary,Self-employed,More than 10 years,"Rs.50,000–99,999",No,No existing loan,Other,"Below Rs.500,000",Education,No,No,Not sure,Rejected
+35–44,Male,Single,0,Secondary,Private-sector employee,3–5 years,"Rs.50,000–99,999",No,No existing loan,Personal,"Rs.500,000–999,999",Debt consolidation,No,No,"Yes, all",Rejected
+35–44,Male,Single,2,No formal education,Business owner,Less than 1 year,"Rs.150,000–249,999",Yes,"Rs.10,000–24,999",Business,"Rs.10,000,000–24,999,999",Business investment,Yes,No,Not sure,Rejected
+35–44,Male,Married,0,Diploma,Private-sector employee,1–2 years,"Rs.50,000–99,999",No,No existing loan,Personal,"Rs.1,000,000–4,999,999",Other,No,No,"Yes, all",Rejected
+55–64,Male,Married,4,Undergraduate degree,Private-sector employee,3–5 years,"Rs.250,000–399,999",No,No existing loan,Vehicle,"Rs.500,000–999,999",Vehicle purchase,No,Yes,"Yes, all",Approved
+55–64,Male,Married,3,Other,Business owner,Less than 1 year,"Rs.50,000–99,999",Yes,"Rs.25,000–49,999",Personal,"Below Rs.500,000",Personal expenses,No,Yes,"Yes, all",Approved
+35–44,Male,Single,3,Undergraduate degree,Retired,Not employed/business,"Rs.150,000–249,999",No,No existing loan,Other,"Rs.1,000,000–4,999,999",Medical expenses,No,No,"Yes, all",Rejected
+45–54,Male,Single,1,Postgraduate degree,Business owner,Less than 1 year,"Rs.400,000–599,999",Yes,"Rs.50,000–74,999",Education,"Rs.500,000–999,999",Education,Yes,No,"Yes, all",Approved
+25–34,Female,Widowed,5 or more,Primary,Government employee,1–2 years,"Rs.1,000,000 or above",No,No existing loan,Personal,"Rs.1,000,000–4,999,999",Personal expenses,Yes,No,"Yes, all",Approved
+25–34,Female,Married,1,Undergraduate degree,Contract employee,1–2 years,"Rs.100,000–149,999",No,No existing loan,Personal,"Rs.1,000,000–4,999,999",Medical expenses,Yes,No,"Yes, all",Rejected
+45–54,Female,Single,1,Diploma,Private-sector employee,3–5 years,"Rs.100,000–149,999",Yes,"Rs.75,000–99,999",Vehicle,"Rs.1,000,000–4,999,999",Vehicle purchase,Yes,No,"Yes, all",Rejected
+65 or above,Female,Married,3,Undergraduate degree,Private-sector employee,Less than 1 year,"Rs.100,000–149,999",No,No existing loan,Agricultural,"Below Rs.500,000",Agriculture,Yes,No,Not sure,Approved
+25–34,Male,Single,1,Postgraduate degree,Contract employee,3–5 years,"Rs.150,000–249,999",No,No existing loan,Personal,"Rs.5,000,000–9,999,999",Debt consolidation,No,No,"Yes, all",Rejected
+25–34,Male,Single,1,Diploma,Retired,Not employed/business,"Rs.150,000–249,999",No,No existing loan,Personal,"Rs.10,000,000–24,999,999",Debt consolidation,No,No,"Yes, all",Rejected
+35–44,Male,Married,1,Undergraduate degree,Private-sector employee,More than 10 years,"Rs.100,000–149,999",Yes,"Rs.25,000–49,999",Business,"Rs.10,000,000–24,999,999",Business investment,Yes,Yes,"Yes, all",Rejected
+45–54,Female,Single,3,Postgraduate degree,Self-employed,3–5 years,"Rs.400,000–599,999",Yes,"Rs.100,000+",Business,"Rs.10,000,000–24,999,999",Business investment,Yes,No,"Yes, all",Rejected
+35–44,Male,Single,0,Secondary,Unemployed,Not employed/business,"Rs.100,000–149,999",No,No existing loan,Agricultural,"Rs.1,000,000–4,999,999",Agriculture,No,Yes,"Yes, all",Rejected
+25–34,Male,Married,1,Undergraduate degree,Contract employee,More than 10 years,"Rs.150,000–249,999",No,No existing loan,Personal,"Rs.1,000,000–4,999,999",Debt consolidation,No,No,"Yes, all",Rejected
+45–54,Female,Married,2,Diploma,Contract employee,More than 10 years,"Rs.150,000–249,999",No,No existing loan,Vehicle,"Rs.500,000–999,999",Vehicle purchase,Yes,No,"Yes, all",Approved
+45–54,Male,Married,2,Postgraduate degree,Government employee,6–10 years,"Rs.250,000–399,999",Yes,"Rs.10,000–24,999",Vehicle,"Rs.5,000,000–9,999,999",Vehicle purchase,No,No,"No, some missing",Rejected
+25–34,Male,Single,1,Secondary,Other,1–2 years,"Rs.250,000–399,999",No,No existing loan,Business,"Rs.10,000,000–24,999,999",Business investment,Yes,No,"Yes, all",Rejected
+25–34,Male,Married,0,Undergraduate degree,Government employee,More than 10 years,"Rs.600,000–999,999",No,No existing loan,Business,"Rs.25,000,000–49,999,999",Business investment,Yes,No,Not sure,Rejected
+45–54,Male,Single,0,Undergraduate degree,Business owner,6–10 years,"Rs.250,000–399,999",Yes,"Rs.50,000–74,999",Personal,"Rs.5,000,000–9,999,999",Personal expenses,Yes,No,"No, some missing",Rejected
+25–34,Female,Single,3,Secondary,Business owner,3–5 years,"Rs.150,000–249,999",Yes,"Rs.50,000–74,999",Housing,"Rs.75,000,000–99,999,999",House purchase/construction,Yes,Yes,"Yes, all",Rejected
+25–34,Female,Married,4,Undergraduate degree,Retired,Not employed/business,"Rs.150,000–249,999",No,No existing loan,Vehicle,"Below Rs.500,000",Vehicle purchase,No,No,"Yes, all",Rejected
+25–34,Male,Prefer not to say,0,Diploma,Private-sector employee,6–10 years,"Rs.400,000–599,999",Yes,"Rs.25,000–49,999",Personal,"Rs.500,000–999,999",Personal expenses,Not applicable / Not required,Yes,"Yes, all",Approved
+45–54,Female,Married,1,Undergraduate degree,Private-sector employee,1–2 years,"Rs.100,000–149,999",No,No existing loan,Business,"Rs.10,000,000–24,999,999",Business investment,No,No,"Yes, all",Approved
+35–44,Male,Married,4,Undergraduate degree,Private-sector employee,More than 10 years,"Rs.150,000–249,999",Yes,"Rs.75,000–99,999",Housing,"Rs.10,000,000–24,999,999",House purchase/construction,Yes,No,"Yes, all",Rejected
+45–54,Female,Married,0,Undergraduate degree,Private-sector employee,Less than 1 year,"Rs.250,000–399,999",No,No existing loan,Agricultural,"Below Rs.500,000",Agriculture,No,No,"Yes, all",Approved
+35–44,Male,Married,2,Undergraduate degree,Contract employee,3–5 years,"Rs.400,000–599,999",No,No existing loan,Business,"Rs.25,000,000–49,999,999",Business investment,Yes,No,"Yes, all",Approved
+Below 25,Male,Single,1,Undergraduate degree,Contract employee,6–10 years,"Rs.250,000–399,999",No,No existing loan,Personal,"Rs.1,000,000–4,999,999",Personal expenses,No,No,"Yes, all",Rejected
+45–54,Male,Married,2,Undergraduate degree,Government employee,3–5 years,"Rs.1,000,000 or above",Yes,"Rs.10,000–24,999",Vehicle,"Rs.1,000,000–4,999,999",Vehicle purchase,Yes,No,"Yes, all",Approved
+35–44,Female,Married,3,Diploma,Self-employed,3–5 years,"Rs.400,000–599,999",Yes,"Rs.10,000–24,999",Housing,"Rs.5,000,000–9,999,999",House purchase/construction,Yes,No,"Yes, all",Approved
+45–54,Male,Married,1,Undergraduate degree,Retired,Not employed/business,"Rs.100,000–149,999",No,No existing loan,Other,"Below Rs.500,000",Vehicle purchase,No,No,"Yes, all",Rejected
+45–54,Female,Married,1,Undergraduate degree,Business owner,1–2 years,"Rs.400,000–599,999",Yes,"Rs.25,000–49,999",Personal,"Rs.10,000,000–24,999,999",Personal expenses,No,Yes,"Yes, all",Approved
+25–34,Male,Married,0,Postgraduate degree,Other,6–10 years,"Rs.100,000–149,999",Yes,"Rs.25,000–49,999",Housing,"Rs.25,000,000–49,999,999",House purchase/construction,No,No,Not sure,Rejected
+55–64,Female,Single,1,Undergraduate degree,Private-sector employee,3–5 years,"Rs.50,000–99,999",Yes,"Rs.50,000–74,999",Personal,"Rs.1,000,000–4,999,999",Personal expenses,Yes,Yes,"Yes, all",Rejected
+Below 25,Male,Single,5 or more,Undergraduate degree,Self-employed,6–10 years,"Rs.1,000,000 or above",Yes,"Rs.75,000–99,999",Vehicle,"Below Rs.500,000",Vehicle purchase,Yes,Yes,"Yes, all",Approved
+25–34,Male,Divorced,2,Undergraduate degree,Unemployed,Not employed/business,"Below Rs.50,000",Yes,"Rs.25,000–49,999",Personal,"Below Rs.500,000",Debt consolidation,No,No,"Yes, all",Rejected
+35–44,Female,Married,4,Undergraduate degree,Private-sector employee,3–5 years,"Rs.150,000–249,999",Yes,"Rs.100,000+",Personal,"Below Rs.500,000",Medical expenses,Yes,Yes,"Yes, all",Approved
+25–34,Male,Single,2,Postgraduate degree,Other,1–2 years,"Rs.50,000–99,999",Yes,"Rs.10,000–24,999",Personal,"Rs.1,000,000–4,999,999",Debt consolidation,No,No,"Yes, all",Rejected
+45–54,Female,Married,3,Primary,Government employee,3–5 years,"Rs.400,000–599,999",No,No existing loan,Agricultural,"Rs.500,000–999,999",Agriculture,Yes,Yes,"Yes, all",Approved
+55–64,Female,Single,4,Postgraduate degree,Private-sector employee,More than 10 years,"Rs.50,000–99,999",No,No existing loan,Business,"Rs.10,000,000–24,999,999",Business investment,Yes,Yes,"Yes, all",Approved
+45–54,Male,Married,0,Diploma,Private-sector employee,6–10 years,"Rs.50,000–99,999",Yes,"Rs.10,000–24,999",Personal,"Rs.500,000–999,999",Medical expenses,No,No,"Yes, all",Rejected
+45–54,Male,Married,3,Undergraduate degree,Private-sector employee,3–5 years,"Rs.150,000–249,999",No,No existing loan,Other,"Rs.1,000,000–4,999,999",Medical expenses,Yes,No,"Yes, all",Approved
+Below 25,Female,Married,3,Postgraduate degree,Business owner,3–5 years,"Rs.150,000–249,999",Yes,"Below Rs.10,000",Vehicle,"Rs.1,000,000–4,999,999",Vehicle purchase,Yes,No,"Yes, all",Rejected
+25–34,Female,Widowed,2,Secondary,Private-sector employee,3–5 years,"Rs.400,000–599,999",No,No existing loan,Vehicle,"Rs.500,000–999,999",Vehicle purchase,No,Yes,"Yes, all",Approved
+45–54,Female,Married,0,Undergraduate degree,Government employee,6–10 years,"Rs.250,000–399,999",Yes,"Rs.25,000–49,999",Housing,"Rs.10,000,000–24,999,999",House purchase/construction,Yes,No,"Yes, all",Approved
+35–44,Prefer not to say,Single,0,Diploma,Self-employed,Less than 1 year,"Rs.250,000–399,999",Yes,"Rs.50,000–74,999",Personal,"Rs.500,000–999,999",Debt consolidation,Yes,Yes,"Yes, all",Approved
+45–54,Male,Married,0,Secondary,Business owner,Less than 1 year,"Rs.150,000–249,999",Yes,"Rs.25,000–49,999",Business,"Rs.1,000,000–4,999,999",Business investment,Yes,No,"Yes, all",Approved
+35–44,Female,Single,5 or more,Postgraduate degree,Private-sector employee,Less than 1 year,"Rs.100,000–149,999",No,No existing loan,Agricultural,"Rs.500,000–999,999",Agriculture,No,No,"Yes, all",Approved
+55–64,Female,Married,3,Diploma,Private-sector employee,3–5 years,"Rs.150,000–249,999",No,No existing loan,Education,"Below Rs.500,000",Education,No,Yes,Not sure,Approved
+25–34,Female,Married,3,Undergraduate degree,Private-sector employee,Less than 1 year,"Rs.50,000–99,999",Yes,"Rs.25,000–49,999",Agricultural,"Rs.1,000,000–4,999,999",Agriculture,Yes,Yes,"Yes, all",Approved
+35–44,Female,Single,0,Undergraduate degree,Retired,Not employed/business,"Rs.150,000–249,999",No,No existing loan,Business,"Rs.1,000,000–4,999,999",Business investment,Yes,No,"Yes, all",Rejected
+45–54,Female,Married,3,Diploma,Unemployed,Not employed/business,"Below Rs.50,000",No,No existing loan,Personal,"Rs.500,000–999,999",Personal expenses,No,No,"Yes, all",Rejected
+35–44,Male,Single,1,Diploma,Private-sector employee,Less than 1 year,"Rs.250,000–399,999",No,No existing loan,Business,"Rs.50,000,000–74,999,999",Business investment,Yes,Yes,"Yes, all",Rejected
+35–44,Male,Married,4,Diploma,Government employee,1–2 years,"Rs.600,000–999,999",No,No existing loan,Personal,"Below Rs.500,000",Medical expenses,No,No,"Yes, all",Approved
+45–54,Male,Single,4,Undergraduate degree,Self-employed,More than 10 years,"Rs.150,000–249,999",Yes,"Rs.75,000–99,999",Other,"Rs.1,000,000–4,999,999",Agriculture,Yes,No,"Yes, all",Rejected
+65 or above,Male,Single,3,Postgraduate degree,Private-sector employee,6–10 years,"Rs.50,000–99,999",No,No existing loan,Personal,"Rs.1,000,000–4,999,999",Medical expenses,No,Yes,"Yes, all",Approved
+25–34,Male,Married,5 or more,Undergraduate degree,Business owner,Less than 1 year,"Rs.100,000–149,999",No,No existing loan,Housing,"Rs.100,000,000 or above",House purchase/construction,Yes,No,"No, some missing",Rejected
+35–44,Male,Single,1,Undergraduate degree,Private-sector employee,6–10 years,"Rs.150,000–249,999",No,No existing loan,Personal,"Rs.1,000,000–4,999,999",Medical expenses,Yes,No,"Yes, all",Approved
+45–54,Female,Married,2,Postgraduate degree,Self-employed,Less than 1 year,"Rs.250,000–399,999",No,No existing loan,Other,"Rs.500,000–999,999",Vehicle purchase,No,Yes,"Yes, all",Approved
+35–44,Female,Married,5 or more,Secondary,Government employee,6–10 years,"Rs.100,000–149,999",No,No existing loan,Personal,"Rs.10,000,000–24,999,999",Personal expenses,No,No,"No, some missing",Rejected
+35–44,Male,Married,0,Secondary,Self-employed,3–5 years,"Rs.400,000–599,999",No,No existing loan,Personal,"Rs.500,000–999,999",Personal expenses,No,No,"Yes, all",Approved
+35–44,Male,Single,1,Secondary,Self-employed,1–2 years,"Rs.150,000–249,999",Yes,"Rs.75,000–99,999",Business,"Rs.25,000,000–49,999,999",Business investment,Yes,No,"Yes, all",Rejected
+35–44,Female,Single,1,Postgraduate degree,Self-employed,3–5 years,"Rs.100,000–149,999",No,No existing loan,Agricultural,"Rs.500,000–999,999",Agriculture,Yes,No,Not sure,Approved
+25–34,Male,Married,0,Postgraduate degree,Business owner,1–2 years,"Rs.100,000–149,999",No,No existing loan,Business,"Rs.25,000,000–49,999,999",Business investment,No,No,"No, some missing",Rejected
+35–44,Male,Single,2,Postgraduate degree,Self-employed,3–5 years,"Rs.100,000–149,999",Yes,"Rs.10,000–24,999",Agricultural,"Rs.5,000,000–9,999,999",Agriculture,Yes,No,"No, some missing",Rejected
+45–54,Male,Single,2,Undergraduate degree,Private-sector employee,6–10 years,"Rs.150,000–249,999",Yes,"Rs.75,000–99,999",Business,"Rs.10,000,000–24,999,999",Business investment,No,Yes,"Yes, all",Rejected
+45–54,Male,Married,0,Secondary,Business owner,More than 10 years,"Rs.250,000–399,999",No,No existing loan,Housing,"Rs.10,000,000–24,999,999",House purchase/construction,Yes,No,Not sure,Rejected
+35–44,Female,Married,2,Secondary,Government employee,6–10 years,"Rs.400,000–599,999",No,No existing loan,Personal,"Rs.500,000–999,999",Other,Not applicable / Not required,No,Not sure,Rejected
+45–54,Male,Married,3,Undergraduate degree,Contract employee,6–10 years,"Rs.250,000–399,999",No,No existing loan,Personal,"Rs.1,000,000–4,999,999",Other,Yes,No,"Yes, all",Approved
+35–44,Female,Married,3,Undergraduate degree,Private-sector employee,1–2 years,"Rs.150,000–249,999",No,No existing loan,Business,"Rs.1,000,000–4,999,999",Business investment,No,No,"Yes, all",Rejected
+25–34,Female,Married,3,Undergraduate degree,Self-employed,3–5 years,"Rs.400,000–599,999",No,No existing loan,Personal,"Rs.500,000–999,999",Medical expenses,Yes,No,"Yes, all",Approved
+45–54,Female,Widowed,1,Diploma,Retired,Not employed/business,"Rs.150,000–249,999",No,No existing loan,Housing,"Rs.25,000,000–49,999,999",House purchase/construction,Yes,No,"Yes, all",Rejected
+25–34,Female,Single,1,Postgraduate degree,Business owner,More than 10 years,"Rs.250,000–399,999",Yes,"Below Rs.10,000",Housing,"Rs.25,000,000–49,999,999",House purchase/construction,No,Yes,"Yes, all",Approved
+35–44,Male,Married,5 or more,Undergraduate degree,Private-sector employee,Less than 1 year,"Rs.150,000–249,999",No,No existing loan,Agricultural,"Rs.500,000–999,999",Agriculture,No,Yes,"Yes, all",Approved
+55–64,Male,Single,0,Diploma,Contract employee,More than 10 years,"Rs.100,000–149,999",Yes,"Below Rs.10,000",Business,"Rs.5,000,000–9,999,999",Business investment,No,No,"Yes, all",Rejected
+35–44,Female,Married,1,Postgraduate degree,Self-employed,3–5 years,"Rs.250,000–399,999",Yes,"Rs.50,000–74,999",Education,"Rs.5,000,000–9,999,999",Education,No,No,"Yes, all",Rejected
+35–44,Female,Divorced,1,Postgraduate degree,Private-sector employee,6–10 years,"Rs.100,000–149,999",No,No existing loan,Vehicle,"Rs.1,000,000–4,999,999",Vehicle purchase,No,No,"Yes, all",Rejected
+45–54,Male,Single,1,Undergraduate degree,Retired,Not employed/business,"Rs.50,000–99,999",No,No existing loan,Housing,"Rs.50,000,000–74,999,999",House purchase/construction,Yes,Yes,"Yes, all",Rejected
+25–34,Female,Married,3,Undergraduate degree,Self-employed,3–5 years,"Rs.150,000–249,999",No,No existing loan,Other,"Rs.5,000,000–9,999,999",Business investment,No,Yes,"Yes, all",Approved
+25–34,Male,Married,1,Diploma,Self-employed,More than 10 years,"Rs.150,000–249,999",No,No existing loan,Personal,"Rs.5,000,000–9,999,999",Other,Yes,Yes,"Yes, all",Approved
+55–64,Female,Married,0,Primary,Self-employed,More than 10 years,"Rs.1,000,000 or above",No,No existing loan,Housing,"Rs.10,000,000–24,999,999",House purchase/construction,Yes,Yes,"Yes, all",Approved
+55–64,Male,Single,2,Primary,Business owner,More than 10 years,"Rs.100,000–149,999",No,No existing loan,Personal,"Rs.5,000,000–9,999,999",Medical expenses,Yes,No,"Yes, all",Approved
+65 or above,Male,Married,0,Diploma,Government employee,6–10 years,"Rs.600,000–999,999",Yes,"Rs.10,000–24,999",Agricultural,"Below Rs.500,000",Agriculture,No,No,"Yes, all",Approved
+35–44,Male,Married,0,Undergraduate degree,Self-employed,Less than 1 year,"Rs.400,000–599,999",Yes,"Rs.25,000–49,999",Business,"Rs.75,000,000–99,999,999",Business investment,No,Yes,"Yes, all",Rejected
+25–34,Female,Single,2,Undergraduate degree,Contract employee,1–2 years,"Rs.150,000–249,999",No,No existing loan,Agricultural,"Below Rs.500,000",Agriculture,Yes,No,"Yes, all",Approved
+45–54,Male,Married,3,Undergraduate degree,Retired,Not employed/business,"Rs.150,000–249,999",No,No existing loan,Business,"Rs.25,000,000–49,999,999",Business investment,Yes,No,"Yes, all",Rejected
+45–54,Male,Single,0,Diploma,Government employee,1–2 years,"Rs.400,000–599,999",Yes,"Rs.75,000–99,999",Personal,"Rs.10,000,000–24,999,999",Other,No,No,"Yes, all",Rejected
+45–54,Female,Married,0,Other,Private-sector employee,3–5 years,"Rs.50,000–99,999",Yes,"Rs.10,000–24,999",Vehicle,"Rs.5,000,000–9,999,999",Vehicle purchase,Yes,Yes,Not sure,Rejected
+35–44,Male,Widowed,1,Primary,Government employee,More than 10 years,"Rs.100,000–149,999",Yes,"Below Rs.10,000",Business,"Rs.75,000,000–99,999,999",Business investment,Yes,Yes,"Yes, all",Rejected
+45–54,Male,Married,0,Undergraduate degree,Government employee,1–2 years,"Rs.250,000–399,999",No,No existing loan,Housing,"Rs.10,000,000–24,999,999",House purchase/construction,Yes,No,"Yes, all",Approved
+35–44,Female,Married,2,Undergraduate degree,Business owner,6–10 years,"Rs.100,000–149,999",Yes,"Below Rs.10,000",Vehicle,"Rs.1,000,000–4,999,999",Vehicle purchase,Yes,No,"Yes, all",Approved
+25–34,Male,Married,0,Diploma,Self-employed,1–2 years,"Rs.250,000–399,999",No,No existing loan,Business,"Rs.5,000,000–9,999,999",Business investment,Yes,No,"No, some missing",Rejected
+45–54,Female,Married,1,Secondary,Unemployed,Not employed/business,"Below Rs.50,000",No,No existing loan,Personal,"Rs.500,000–999,999",Medical expenses,No,Yes,"Yes, all",Rejected
+45–54,Female,Single,3,Postgraduate degree,Government employee,More than 10 years,"Rs.150,000–249,999",No,No existing loan,Agricultural,"Rs.5,000,000–9,999,999",Agriculture,Yes,No,"Yes, all",Approved
+45–54,Male,Married,1,Secondary,Business owner,3–5 years,"Rs.250,000–399,999",Yes,"Rs.50,000–74,999",Agricultural,"Rs.5,000,000–9,999,999",Agriculture,No,No,"Yes, all",Approved
+25–34,Female,Married,2,Undergraduate degree,Private-sector employee,1–2 years,"Rs.250,000–399,999",Yes,"Rs.10,000–24,999",Business,"Rs.10,000,000–24,999,999",Business investment,Yes,No,"Yes, all",Approved
+45–54,Male,Single,2,Secondary,Self-employed,6–10 years,"Rs.250,000–399,999",Yes,"Rs.10,000–24,999",Housing,"Rs.10,000,000–24,999,999",House purchase/construction,Yes,No,Not sure,Rejected
+35–44,Male,Divorced,2,Undergraduate degree,Private-sector employee,Less than 1 year,"Rs.150,000–249,999",Yes,"Rs.75,000–99,999",Personal,"Rs.500,000–999,999",Debt consolidation,No,Yes,"Yes, all",Rejected
+45–54,Male,Married,4,Undergraduate degree,Business owner,Less than 1 year,"Rs.1,000,000 or above",No,No existing loan,Personal,"Rs.500,000–999,999",Medical expenses,Not applicable / Not required,No,"Yes, all",Rejected
+35–44,Female,Single,1,Undergraduate degree,Business owner,3–5 years,"Rs.250,000–399,999",Yes,"Rs.10,000–24,999",Business,"Rs.25,000,000–49,999,999",Business investment,No,No,"Yes, all",Rejected
+65 or above,Female,Married,0,Secondary,Unemployed,Not employed/business,"Rs.100,000–149,999",No,No existing loan,Housing,"Rs.5,000,000–9,999,999",House purchase/construction,No,Yes,"Yes, all",Approved
+35–44,Female,Married,1,Diploma,Contract employee,Less than 1 year,"Rs.50,000–99,999",No,No existing loan,Personal,"Rs.500,000–999,999",Other,Not applicable / Not required,Yes,"Yes, all",Rejected
+35–44,Female,Married,1,Postgraduate degree,Government employee,6–10 years,"Rs.600,000–999,999",Yes,"Rs.50,000–74,999",Business,"Rs.50,000,000–74,999,999",Business investment,Yes,No,Not sure,Rejected
+45–54,Male,Prefer not to say,1,Secondary,Private-sector employee,3–5 years,"Rs.150,000–249,999",Yes,"Rs.50,000–74,999",Vehicle,"Rs.5,000,000–9,999,999",Vehicle purchase,Yes,Yes,"Yes, all",Approved
+Below 25,Male,Married,2,Undergraduate degree,Private-sector employee,More than 10 years,"Rs.400,000–599,999",No,No existing loan,Vehicle,"Rs.10,000,000–24,999,999",Vehicle purchase,Yes,Yes,"Yes, all",Rejected
+35–44,Female,Married,2,Undergraduate degree,Business owner,More than 10 years,"Rs.600,000–999,999",No,No existing loan,Agricultural,"Rs.500,000–999,999",Agriculture,Yes,Yes,"Yes, all",Approved
+25–34,Male,Married,0,Diploma,Private-sector employee,1–2 years,"Rs.100,000–149,999",Yes,"Rs.50,000–74,999",Business,"Rs.5,000,000–9,999,999",Business investment,No,No,"Yes, all",Rejected
+35–44,Male,Single,0,Primary,Retired,Not employed/business,"Rs.100,000–149,999",No,No existing loan,Education,"Rs.500,000–999,999",Education,No,Yes,"Yes, all",Approved
+45–54,Female,Widowed,1,Undergraduate degree,Contract employee,Less than 1 year,"Rs.50,000–99,999",Yes,"Rs.10,000–24,999",Personal,"Rs.1,000,000–4,999,999",Medical expenses,No,Yes,"Yes, all",Rejected
+35–44,Male,Divorced,2,Undergraduate degree,Private-sector employee,1–2 years,"Rs.150,000–249,999",Yes,"Rs.10,000–24,999",Personal,"Below Rs.500,000",Personal expenses,Not applicable / Not required,Yes,"Yes, all",Approved
+25–34,Male,Married,5 or more,Diploma,Retired,Not employed/business,"Rs.150,000–249,999",Yes,"Rs.10,000–24,999",Business,"Rs.25,000,000–49,999,999",Business investment,No,Yes,"Yes, all",Rejected
+55–64,Male,Single,2,No formal education,Government employee,1–2 years,"Rs.1,000,000 or above",No,No existing loan,Education,"Rs.1,000,000–4,999,999",Education,Yes,Yes,"Yes, all",Approved
+45–54,Female,Married,0,Undergraduate degree,Business owner,6–10 years,"Rs.50,000–99,999",No,No existing loan,Personal,"Below Rs.500,000",Personal expenses,No,Yes,"Yes, all",Rejected
+35–44,Female,Married,0,Primary,Private-sector employee,1–2 years,"Rs.400,000–599,999",No,No existing loan,Other,"Rs.500,000–999,999",Debt consolidation,No,Yes,"Yes, all",Approved
+25–34,Female,Single,0,Secondary,Business owner,6–10 years,"Rs.400,000–599,999",No,No existing loan,Education,"Rs.1,000,000–4,999,999",Education,Yes,Yes,"Yes, all",Approved
+65 or above,Prefer not to say,Married,0,Secondary,Government employee,1–2 years,"Rs.100,000–149,999",Yes,"Rs.10,000–24,999",Vehicle,"Rs.5,000,000–9,999,999",Vehicle purchase,No,No,"Yes, all",Rejected
+45–54,Male,Married,2,Diploma,Private-sector employee,More than 10 years,"Rs.250,000–399,999",No,No existing loan,Business,"Rs.5,000,000–9,999,999",Business investment,Yes,Yes,"Yes, all",Rejected
+65 or above,Male,Married,3,Secondary,Contract employee,6–10 years,"Rs.250,000–399,999",No,No existing loan,Personal,"Rs.5,000,000–9,999,999",Debt consolidation,No,Yes,"Yes, all",Rejected
+45–54,Male,Married,2,Postgraduate degree,Private-sector employee,6–10 years,"Rs.150,000–249,999",No,No existing loan,Personal,"Rs.500,000–999,999",Other,No,No,"Yes, all",Rejected
+25–34,Male,Single,0,Diploma,Private-sector employee,1–2 years,"Rs.50,000–99,999",No,No existing loan,Personal,"Rs.500,000–999,999",Debt consolidation,Not applicable / Not required,No,"Yes, all",Rejected
+25–34,Male,Married,0,Postgraduate degree,Business owner,More than 10 years,"Rs.250,000–399,999",No,No existing loan,Education,"Rs.1,000,000–4,999,999",Education,Yes,Yes,"Yes, all",Approved
+25–34,Female,Single,1,Diploma,Contract employee,3–5 years,"Rs.150,000–249,999",No,No existing loan,Housing,"Rs.25,000,000–49,999,999",House purchase/construction,No,Yes,"Yes, all",Approved
+25–34,Male,Single,2,Diploma,Private-sector employee,1–2 years,"Rs.50,000–99,999",No,No existing loan,Vehicle,"Rs.1,000,000–4,999,999",Vehicle purchase,No,Yes,"Yes, all",Approved
+35–44,Male,Single,4,Diploma,Private-sector employee,6–10 years,"Rs.250,000–399,999",Yes,"Rs.25,000–49,999",Housing,"Rs.10,000,000–24,999,999",House purchase/construction,Yes,Yes,"Yes, all",Rejected
+25–34,Male,Divorced,0,Undergraduate degree,Private-sector employee,3–5 years,"Rs.150,000–249,999",Yes,"Rs.10,000–24,999",Other,"Rs.1,000,000–4,999,999",Other,No,No,"Yes, all",Rejected
+55–64,Male,Single,2,Secondary,Government employee,More than 10 years,"Rs.400,000–599,999",No,No existing loan,Housing,"Rs.75,000,000–99,999,999",House purchase/construction,No,No,"Yes, all",Rejected
+Below 25,Male,Single,2,Other,Business owner,Less than 1 year,"Rs.600,000–999,999",No,No existing loan,Education,"Rs.1,000,000–4,999,999",Education,Yes,Yes,"Yes, all",Approved
+25–34,Female,Single,3,Secondary,Self-employed,1–2 years,"Rs.100,000–149,999",Yes,"Rs.10,000–24,999",Personal,"Below Rs.500,000",Debt consolidation,No,No,"Yes, all",Approved
+25–34,Female,Single,0,Undergraduate degree,Government employee,Less than 1 year,"Rs.250,000–399,999",Yes,"Rs.50,000–74,999",Vehicle,"Rs.1,000,000–4,999,999",Vehicle purchase,Yes,Yes,"Yes, all",Rejected
+25–34,Female,Single,2,Undergraduate degree,Unemployed,Not employed/business,"Rs.50,000–99,999",No,No existing loan,Other,"Below Rs.500,000",Vehicle purchase,No,No,"Yes, all",Rejected
+55–64,Female,Married,3,Diploma,Private-sector employee,3–5 years,"Rs.100,000–149,999",Yes,"Below Rs.10,000",Vehicle,"Rs.500,000–999,999",Vehicle purchase,Yes,No,"Yes, all",Approved
+Below 25,Female,Married,5 or more,Diploma,Private-sector employee,1–2 years,"Rs.150,000–249,999",No,No existing loan,Other,"Below Rs.500,000",Debt consolidation,No,No,"Yes, all",Approved
+25–34,Female,Married,5 or more,Undergraduate degree,Private-sector employee,3–5 years,"Rs.250,000–399,999",Yes,"Rs.25,000–49,999",Business,"Rs.10,000,000–24,999,999",Business investment,Yes,No,"Yes, all",Approved
+25–34,Male,Single,0,Diploma,Contract employee,1–2 years,"Rs.150,000–249,999",No,No existing loan,Personal,"Rs.1,000,000–4,999,999",Debt consolidation,Yes,No,"Yes, all",Approved
+55–64,Male,Married,2,Undergraduate degree,Private-sector employee,3–5 years,"Rs.250,000–399,999",Yes,"Rs.10,000–24,999",Vehicle,"Rs.1,000,000–4,999,999",Vehicle purchase,Yes,No,"Yes, all",Approved
+55–64,Male,Married,2,Primary,Business owner,6–10 years,"Rs.400,000–599,999",Yes,"Rs.50,000–74,999",Education,"Rs.1,000,000–4,999,999",Education,No,No,Not sure,Rejected
+25–34,Male,Married,2,Diploma,Private-sector employee,3–5 years,"Rs.150,000–249,999",No,No existing loan,Personal,"Rs.10,000,000–24,999,999",Other,Yes,No,Not sure,Rejected
+25–34,Female,Married,1,Diploma,Self-employed,6–10 years,"Rs.50,000–99,999",No,No existing loan,Housing,"Rs.10,000,000–24,999,999",House purchase/construction,Yes,Yes,"Yes, all",Approved
+35–44,Female,Married,2,Diploma,Government employee,6–10 years,"Rs.250,000–399,999",Yes,"Below Rs.10,000",Personal,"Rs.500,000–999,999",Debt consolidation,Not applicable / Not required,No,"Yes, all",Approved
+45–54,Female,Married,4,Diploma,Contract employee,3–5 years,"Rs.600,000–999,999",No,No existing loan,Agricultural,"Rs.1,000,000–4,999,999",Agriculture,Yes,No,"Yes, all",Approved
+45–54,Female,Single,2,Diploma,Government employee,3–5 years,"Rs.150,000–249,999",No,No existing loan,Personal,"Rs.1,000,000–4,999,999",Debt consolidation,No,No,"Yes, all",Approved
+45–54,Male,Widowed,3,Diploma,Private-sector employee,1–2 years,"Rs.150,000–249,999",No,No existing loan,Vehicle,"Rs.5,000,000–9,999,999",Vehicle purchase,Yes,Yes,"Yes, all",Approved
+35–44,Male,Married,3,Undergraduate degree,Government employee,More than 10 years,"Rs.250,000–399,999",Yes,"Rs.100,000+",Personal,"Below Rs.500,000",Medical expenses,Not applicable / Not required,No,"Yes, all",Approved
+55–64,Male,Single,3,Secondary,Retired,Not employed/business,"Rs.150,000–249,999",Yes,"Below Rs.10,000",Personal,"Rs.500,000–999,999",Debt consolidation,Not applicable / Not required,No,"Yes, all",Approved
+25–34,Male,Married,0,Diploma,Government employee,3–5 years,"Rs.400,000–599,999",No,No existing loan,Vehicle,"Rs.5,000,000–9,999,999",Vehicle purchase,Yes,Yes,"Yes, all",Rejected
+65 or above,Female,Married,0,Diploma,Private-sector employee,More than 10 years,"Rs.400,000–599,999",No,No existing loan,Personal,"Rs.5,000,000–9,999,999",Other,No,No,"Yes, all",Approved
+35–44,Male,Married,0,Undergraduate degree,Self-employed,3–5 years,"Rs.400,000–599,999",Yes,"Rs.25,000–49,999",Education,"Below Rs.500,000",Education,No,Yes,"Yes, all",Approved
+45–54,Male,Widowed,3,Undergraduate degree,Private-sector employee,3–5 years,"Rs.250,000–399,999",Yes,"Rs.50,000–74,999",Personal,"Rs.500,000–999,999",Medical expenses,Yes,No,Not sure,Approved
+25–34,Female,Married,5 or more,Primary,Self-employed,Less than 1 year,"Rs.1,000,000 or above",No,No existing loan,Business,"Rs.500,000–999,999",Business investment,Yes,No,"Yes, all",Approved
+45–54,Female,Single,1,Undergraduate degree,Unemployed,Not employed/business,"Below Rs.50,000",No,No existing loan,Personal,"Rs.10,000,000–24,999,999",Other,No,No,"Yes, all",Rejected
+25–34,Female,Married,2,Undergraduate degree,Government employee,1–2 years,"Rs.250,000–399,999",Yes,"Below Rs.10,000",Housing,"Rs.10,000,000–24,999,999",House purchase/construction,Yes,No,"Yes, all",Rejected
+55–64,Male,Married,2,Undergraduate degree,Unemployed,Not employed/business,"Rs.50,000–99,999",No,No existing loan,Personal,"Rs.25,000,000–49,999,999",Personal expenses,No,Yes,"No, some missing",Rejected
+45–54,Male,Married,1,Undergraduate degree,Private-sector employee,6–10 years,"Rs.150,000–249,999",No,No existing loan,Housing,"Rs.75,000,000–99,999,999",House purchase/construction,Yes,No,"Yes, all",Rejected
+25–34,Female,Married,2,Undergraduate degree,Unemployed,Not employed/business,"Below Rs.50,000",No,No existing loan,Personal,"Rs.1,000,000–4,999,999",Debt consolidation,No,Yes,"Yes, all",Rejected
+Below 25,Female,Married,1,Undergraduate degree,Contract employee,6–10 years,"Rs.250,000–399,999",Yes,"Rs.100,000+",Housing,"Rs.25,000,000–49,999,999",House purchase/construction,Yes,No,"Yes, all",Rejected
+25–34,Male,Single,0,Postgraduate degree,Retired,Not employed/business,"Rs.250,000–399,999",No,No existing loan,Housing,"Rs.50,000,000–74,999,999",House purchase/construction,Yes,No,"Yes, all",Rejected
+55–64,Male,Married,0,Undergraduate degree,Private-sector employee,Less than 1 year,"Rs.1,000,000 or above",Yes,"Rs.10,000–24,999",Other,"Rs.1,000,000–4,999,999",House purchase/construction,Yes,No,"Yes, all",Approved
+55–64,Prefer not to say,Married,3,Undergraduate degree,Private-sector employee,3–5 years,"Rs.50,000–99,999",No,No existing loan,Vehicle,"Rs.500,000–999,999",Vehicle purchase,Yes,Yes,"Yes, all",Approved
+55–64,Female,Married,3,Postgraduate degree,Self-employed,3–5 years,"Rs.1,000,000 or above",No,No existing loan,Other,"Rs.50,000,000–74,999,999",Personal expenses,Yes,Yes,"Yes, all",Approved
+35–44,Male,Single,5 or more,Undergraduate degree,Contract employee,6–10 years,"Rs.100,000–149,999",No,No existing loan,Agricultural,"Rs.5,000,000–9,999,999",Agriculture,Yes,Yes,"Yes, all",Rejected
+55–64,Female,Single,0,Secondary,Private-sector employee,6–10 years,"Rs.150,000–249,999",Yes,"Rs.25,000–49,999",Vehicle,"Rs.1,000,000–4,999,999",Vehicle purchase,No,No,"Yes, all",Rejected
+35–44,Female,Married,2,Undergraduate degree,Contract employee,More than 10 years,"Rs.100,000–149,999",No,No existing loan,Personal,"Rs.10,000,000–24,999,999",Debt consolidation,No,No,"Yes, all",Rejected
+45–54,Female,Divorced,1,Diploma,Government employee,3–5 years,"Rs.400,000–599,999",Yes,"Below Rs.10,000",Business,"Rs.10,000,000–24,999,999",Business investment,Yes,No,"Yes, all",Rejected
+45–54,Male,Married,3,Diploma,Private-sector employee,3–5 years,"Rs.150,000–249,999",No,No existing loan,Vehicle,"Rs.1,000,000–4,999,999",Vehicle purchase,Yes,No,"Yes, all",Approved
+35–44,Female,Married,0,Postgraduate degree,Private-sector employee,More than 10 years,"Rs.100,000–149,999",Yes,"Rs.75,000–99,999",Vehicle,"Rs.500,000–999,999",Vehicle purchase,Yes,No,"Yes, all",Approved
+25–34,Female,Married,0,Undergraduate degree,Government employee,3–5 years,"Rs.250,000–399,999",No,No existing loan,Housing,"Rs.50,000,000–74,999,999",House purchase/construction,Yes,No,"Yes, all",Approved
+55–64,Female,Married,1,Diploma,Private-sector employee,3–5 years,"Rs.250,000–399,999",No,No existing loan,Agricultural,"Rs.1,000,000–4,999,999",Agriculture,Yes,Yes,"Yes, all",Approved
+45–54,Male,Married,3,Undergraduate degree,Contract employee,1–2 years,"Rs.100,000–149,999",No,No existing loan,Personal,"Rs.500,000–999,999",Other,No,No,"Yes, all",Rejected
+35–44,Female,Widowed,0,Diploma,Self-employed,6–10 years,"Rs.100,000–149,999",Yes,"Rs.50,000–74,999",Personal,"Rs.5,000,000–9,999,999",Debt consolidation,Yes,No,"Yes, all",Rejected
+25–34,Male,Divorced,2,Undergraduate degree,Government employee,1–2 years,"Rs.250,000–399,999",No,No existing loan,Education,"Rs.1,000,000–4,999,999",Education,No,No,"Yes, all",Rejected
+55–64,Male,Single,2,Undergraduate degree,Private-sector employee,Less than 1 year,"Rs.250,000–399,999",Yes,"Below Rs.10,000",Business,"Rs.10,000,000–24,999,999",Business investment,Yes,No,"Yes, all",Rejected
+Below 25,Male,Single,2,Diploma,Government employee,Less than 1 year,"Rs.250,000–399,999",No,No existing loan,Agricultural,"Rs.500,000–999,999",Agriculture,Yes,No,"Yes, all",Approved
+35–44,Female,Married,1,Undergraduate degree,Private-sector employee,1–2 years,"Rs.150,000–249,999",Yes,"Rs.25,000–49,999",Education,"Rs.1,000,000–4,999,999",Education,Yes,No,"No, some missing",Rejected
+25–34,Male,Married,0,Diploma,Business owner,More than 10 years,"Rs.150,000–249,999",No,No existing loan,Personal,"Rs.1,000,000–4,999,999",Medical expenses,Yes,No,"Yes, all",Rejected
+35–44,Female,Married,3,Undergraduate degree,Contract employee,1–2 years,"Rs.400,000–599,999",No,No existing loan,Personal,"Rs.5,000,000–9,999,999",Other,Yes,No,Not sure,Rejected
+35–44,Female,Married,0,Postgraduate degree,Private-sector employee,Less than 1 year,"Rs.400,000–599,999",No,No existing loan,Vehicle,"Rs.5,000,000–9,999,999",Vehicle purchase,No,No,"Yes, all",Rejected
+65 or above,Female,Married,1,Diploma,Private-sector employee,1–2 years,"Rs.400,000–599,999",Yes,"Rs.10,000–24,999",Agricultural,"Rs.1,000,000–4,999,999",Agriculture,Yes,No,"Yes, all",Approved
+45–54,Female,Married,0,Undergraduate degree,Self-employed,Less than 1 year,"Rs.150,000–249,999",No,No existing loan,Other,"Rs.5,000,000–9,999,999",Personal expenses,Yes,No,Not sure,Rejected
+25–34,Male,Single,1,Postgraduate degree,Government employee,3–5 years,"Rs.150,000–249,999",Yes,"Rs.100,000+",Personal,"Rs.500,000–999,999",Other,No,No,"Yes, all",Rejected
+25–34,Female,Single,0,Secondary,Government employee,3–5 years,"Rs.250,000–399,999",Yes,"Rs.10,000–24,999",Housing,"Rs.50,000,000–74,999,999",House purchase/construction,Yes,Yes,"Yes, all",Rejected
+65 or above,Male,Married,1,Undergraduate degree,Government employee,1–2 years,"Rs.250,000–399,999",Yes,"Rs.25,000–49,999",Education,"Below Rs.500,000",Education,Yes,No,"Yes, all",Approved
+25–34,Female,Single,1,Undergraduate degree,Business owner,1–2 years,"Rs.100,000–149,999",Yes,"Rs.25,000–49,999",Personal,"Below Rs.500,000",Personal expenses,No,Yes,"Yes, all",Rejected
+55–64,Female,Single,3,Postgraduate degree,Private-sector employee,3–5 years,"Rs.100,000–149,999",Yes,"Below Rs.10,000",Other,"Below Rs.500,000",Education,No,No,"Yes, all",Approved
+65 or above,Male,Married,2,Diploma,Retired,Not employed/business,"Rs.150,000–249,999",Yes,"Below Rs.10,000",Business,"Rs.5,000,000–9,999,999",Business investment,Yes,Yes,Not sure,Rejected
+Below 25,Female,Married,1,Undergraduate degree,Business owner,6–10 years,"Rs.50,000–99,999",No,No existing loan,Housing,"Rs.1,000,000–4,999,999",House purchase/construction,Yes,Yes,"Yes, all",Approved
+65 or above,Female,Single,3,Secondary,Business owner,3–5 years,"Rs.150,000–249,999",No,No existing loan,Vehicle,"Rs.1,000,000–4,999,999",Vehicle purchase,No,No,Not sure,Rejected
+25–34,Female,Married,0,Undergraduate degree,Private-sector employee,Less than 1 year,"Rs.400,000–599,999",No,No existing loan,Housing,"Rs.10,000,000–24,999,999",House purchase/construction,Yes,No,"Yes, all",Approved
+45–54,Female,Married,1,Undergraduate degree,Self-employed,3–5 years,"Rs.100,000–149,999",No,No existing loan,Personal,"Rs.1,000,000–4,999,999",Other,Yes,No,"Yes, all",Approved
+25–34,Female,Married,1,Undergraduate degree,Self-employed,1–2 years,"Rs.150,000–249,999",Yes,"Rs.10,000–24,999",Personal,"Rs.500,000–999,999",Debt consolidation,Yes,Yes,"Yes, all",Approved
+35–44,Male,Married,3,Undergraduate degree,Government employee,3–5 years,"Rs.250,000–399,999",No,No existing loan,Education,"Rs.5,000,000–9,999,999",Education,Yes,No,"Yes, all",Approved
+25–34,Female,Married,3,Other,Private-sector employee,1–2 years,"Rs.1,000,000 or above",Yes,"Rs.25,000–49,999",Business,"Rs.10,000,000–24,999,999",Business investment,Yes,No,"Yes, all",Approved
+25–34,Male,Single,3,Secondary,Business owner,Less than 1 year,"Rs.150,000–249,999",No,No existing loan,Personal,"Rs.1,000,000–4,999,999",Personal expenses,No,No,"Yes, all",Rejected
+25–34,Male,Single,2,Diploma,Private-sector employee,Less than 1 year,"Rs.50,000–99,999",Yes,"Rs.10,000–24,999",Personal,"Rs.500,000–999,999",Medical expenses,Not applicable / Not required,Yes,Not sure,Rejected
+25–34,Female,Single,2,Diploma,Government employee,3–5 years,"Rs.250,000–399,999",No,No existing loan,Vehicle,"Rs.10,000,000–24,999,999",Vehicle purchase,Yes,No,"Yes, all",Approved
+25–34,Female,Single,0,Undergraduate degree,Government employee,6–10 years,"Rs.250,000–399,999",Yes,"Rs.25,000–49,999",Agricultural,"Rs.500,000–999,999",Agriculture,Yes,Yes,"Yes, all",Approved
+25–34,Male,Married,4,Secondary,Private-sector employee,3–5 years,"Rs.400,000–599,999",Yes,"Below Rs.10,000",Personal,"Rs.10,000,000–24,999,999",Debt consolidation,Yes,No,"Yes, all",Approved
+Below 25,Female,Single,1,Primary,Private-sector employee,6–10 years,"Rs.250,000–399,999",No,No existing loan,Other,"Below Rs.500,000",Medical expenses,No,No,"Yes, all",Approved
+35–44,Male,Single,3,Undergraduate degree,Private-sector employee,3–5 years,"Rs.100,000–149,999",Yes,"Rs.10,000–24,999",Business,"Rs.25,000,000–49,999,999",Business investment,Yes,No,Not sure,Rejected
+55–64,Male,Married,1,Undergraduate degree,Government employee,1–2 years,"Rs.100,000–149,999",No,No existing loan,Business,"Rs.500,000–999,999",Business investment,Yes,No,"Yes, all",Approved
+35–44,Female,Married,0,Secondary,Private-sector employee,6–10 years,"Rs.50,000–99,999",No,No existing loan,Business,"Rs.5,000,000–9,999,999",Business investment,No,No,"Yes, all",Rejected
+25–34,Female,Married,3,Secondary,Business owner,3–5 years,"Rs.150,000–249,999",Yes,"Rs.25,000–49,999",Housing,"Rs.1,000,000–4,999,999",House purchase/construction,Yes,No,"Yes, all",Rejected
+Below 25,Male,Single,1,Postgraduate degree,Contract employee,6–10 years,"Rs.100,000–149,999",Yes,"Rs.50,000–74,999",Business,"Rs.10,000,000–24,999,999",Business investment,Yes,No,"Yes, all",Rejected
+55–64,Male,Married,0,Undergraduate degree,Self-employed,3–5 years,"Rs.100,000–149,999",No,No existing loan,Business,"Rs.500,000–999,999",Business investment,No,No,Not sure,Rejected
+25–34,Male,Single,1,Secondary,Retired,Not employed/business,"Rs.100,000–149,999",No,No existing loan,Vehicle,"Below Rs.500,000",Vehicle purchase,Yes,No,"Yes, all",Rejected
+55–64,Female,Married,5 or more,Diploma,Private-sector employee,3–5 years,"Rs.400,000–599,999",No,No existing loan,Agricultural,"Below Rs.500,000",Agriculture,Yes,No,"Yes, all",Approved
+Below 25,Female,Married,2,Diploma,Unemployed,Not employed/business,"Below Rs.50,000",No,No existing loan,Vehicle,"Rs.500,000–999,999",Vehicle purchase,Yes,No,"Yes, all",Approved
+55–64,Male,Single,0,Undergraduate degree,Business owner,1–2 years,"Rs.150,000–249,999",No,No existing loan,Personal,"Rs.1,000,000–4,999,999",Other,No,No,"Yes, all",Approved
+45–54,Male,Single,0,Postgraduate degree,Private-sector employee,More than 10 years,"Rs.150,000–249,999",Yes,"Rs.75,000–99,999",Housing,"Rs.10,000,000–24,999,999",House purchase/construction,Yes,No,"Yes, all",Approved
+25–34,Male,Married,0,Undergraduate degree,Private-sector employee,Less than 1 year,"Rs.1,000,000 or above",No,No existing loan,Education,"Below Rs.500,000",Education,Not applicable / Not required,No,"Yes, all",Approved
+25–34,Male,Single,4,Postgraduate degree,Self-employed,1–2 years,"Rs.50,000–99,999",Yes,"Rs.50,000–74,999",Housing,"Rs.25,000,000–49,999,999",House purchase/construction,No,No,"Yes, all",Rejected
+65 or above,Female,Married,2,Undergraduate degree,Other,1–2 years,"Rs.150,000–249,999",No,No existing loan,Housing,"Rs.25,000,000–49,999,999",House purchase/construction,Yes,No,"Yes, all",Rejected
+35–44,Male,Single,1,Secondary,Retired,Not employed/business,"Rs.250,000–399,999",No,No existing loan,Other,"Rs.500,000–999,999",House purchase/construction,No,No,"Yes, all",Approved
+35–44,Female,Married,2,Primary,Private-sector employee,3–5 years,"Rs.50,000–99,999",No,No existing loan,Housing,"Rs.10,000,000–24,999,999",House purchase/construction,No,No,Not sure,Rejected
+35–44,Male,Married,2,Undergraduate degree,Private-sector employee,More than 10 years,"Rs.400,000–599,999",No,No existing loan,Personal,"Rs.1,000,000–4,999,999",Debt consolidation,Yes,Yes,"Yes, all",Approved
+35–44,Prefer not to say,Married,0,Undergraduate degree,Contract employee,3–5 years,"Rs.150,000–249,999",No,No existing loan,Personal,"Rs.10,000,000–24,999,999",Debt consolidation,No,No,"Yes, all",Rejected
+55–64,Male,Married,0,Undergraduate degree,Retired,Not employed/business,"Rs.150,000–249,999",No,No existing loan,Agricultural,"Rs.25,000,000–49,999,999",Agriculture,Yes,No,"No, some missing",Rejected
+35–44,Male,Married,2,Undergraduate degree,Government employee,Less than 1 year,"Rs.250,000–399,999",Yes,"Rs.50,000–74,999",Vehicle,"Rs.1,000,000–4,999,999",Vehicle purchase,No,No,"Yes, all",Rejected
+25–34,Female,Married,0,Undergraduate degree,Government employee,More than 10 years,"Rs.250,000–399,999",No,No existing loan,Education,"Rs.1,000,000–4,999,999",Education,No,No,"Yes, all",Approved
+25–34,Female,Married,0,Diploma,Business owner,3–5 years,"Rs.150,000–249,999",Yes,"Rs.10,000–24,999",Business,"Rs.10,000,000–24,999,999",Business investment,Yes,No,"Yes, all",Approved
+45–54,Male,Married,2,Diploma,Contract employee,More than 10 years,"Rs.400,000–599,999",No,No existing loan,Agricultural,"Rs.5,000,000–9,999,999",Agriculture,No,Yes,"Yes, all",Approved
+Below 25,Female,Married,0,Postgraduate degree,Government employee,1–2 years,"Rs.400,000–599,999",No,No existing loan,Vehicle,"Rs.1,000,000–4,999,999",Vehicle purchase,Yes,Yes,"Yes, all",Approved
+Below 25,Female,Married,1,Undergraduate degree,Other,3–5 years,"Rs.150,000–249,999",No,No existing loan,Other,"Rs.5,000,000–9,999,999",Education,Yes,No,"No, some missing",Rejected
+25–34,Female,Single,5 or more,Undergraduate degree,Private-sector employee,3–5 years,"Rs.150,000–249,999",Yes,"Rs.10,000–24,999",Housing,"Rs.75,000,000–99,999,999",House purchase/construction,Yes,No,"Yes, all",Rejected
+45–54,Female,Married,3,Diploma,Self-employed,6–10 years,"Rs.100,000–149,999",No,No existing loan,Personal,"Rs.10,000,000–24,999,999",Debt consolidation,No,Yes,"Yes, all",Rejected
+35–44,Male,Married,1,Diploma,Contract employee,More than 10 years,"Rs.400,000–599,999",Yes,"Rs.10,000–24,999",Personal,"Rs.1,000,000–4,999,999",Other,No,No,"Yes, all",Rejected
+45–54,Female,Married,0,Secondary,Private-sector employee,6–10 years,"Rs.150,000–249,999",No,No existing loan,Business,"Rs.25,000,000–49,999,999",Business investment,Yes,No,Not sure,Rejected
+65 or above,Male,Married,1,Other,Private-sector employee,3–5 years,"Rs.150,000–249,999",No,No existing loan,Agricultural,"Rs.5,000,000–9,999,999",Agriculture,No,Yes,"No, some missing",Rejected
+45–54,Male,Single,2,Diploma,Private-sector employee,More than 10 years,"Rs.100,000–149,999",No,No existing loan,Other,"Rs.500,000–999,999",Other,No,No,Not sure,Rejected
+45–54,Male,Married,1,Undergraduate degree,Private-sector employee,6–10 years,"Rs.100,000–149,999",No,No existing loan,Personal,"Below Rs.500,000",Medical expenses,Not applicable / Not required,No,"Yes, all",Approved
+25–34,Male,Married,1,Undergraduate degree,Government employee,3–5 years,"Rs.250,000–399,999",No,No existing loan,Personal,"Rs.500,000–999,999",Medical expenses,No,Yes,"Yes, all",Approved
+35–44,Male,Married,0,Secondary,Private-sector employee,3–5 years,"Rs.100,000–149,999",Yes,"Rs.75,000–99,999",Education,"Rs.500,000–999,999",Education,Not applicable / Not required,No,"Yes, all",Approved
+Below 25,Male,Married,3,Undergraduate degree,Contract employee,3–5 years,"Rs.50,000–99,999",Yes,"Rs.75,000–99,999",Education,"Rs.500,000–999,999",Education,Not applicable / Not required,No,"Yes, all",Rejected
+25–34,Male,Single,0,Postgraduate degree,Business owner,6–10 years,"Rs.150,000–249,999",No,No existing loan,Education,"Rs.500,000–999,999",Education,No,No,"Yes, all",Approved
+45–54,Male,Married,0,Diploma,Retired,Not employed/business,"Rs.100,000–149,999",No,No existing loan,Housing,"Rs.25,000,000–49,999,999",House purchase/construction,Yes,No,"Yes, all",Rejected
+25–34,Male,Married,1,Diploma,Private-sector employee,6–10 years,"Rs.50,000–99,999",Yes,"Rs.50,000–74,999",Business,"Rs.25,000,000–49,999,999",Business investment,Yes,Yes,"Yes, all",Rejected
+65 or above,Male,Married,5 or more,Undergraduate degree,Self-employed,More than 10 years,"Rs.400,000–599,999",No,No existing loan,Personal,"Rs.1,000,000–4,999,999",Debt consolidation,Yes,No,"Yes, all",Approved
+35–44,Male,Single,2,Undergraduate degree,Government employee,Less than 1 year,"Rs.250,000–399,999",No,No existing loan,Education,"Rs.500,000–999,999",Education,No,Yes,"Yes, all",Approved
+45–54,Male,Married,1,Postgraduate degree,Other,More than 10 years,"Rs.100,000–149,999",No,No existing loan,Housing,"Rs.50,000,000–74,999,999",House purchase/construction,Yes,No,"Yes, all",Rejected
+45–54,Female,Married,3,Diploma,Business owner,More than 10 years,"Rs.600,000–999,999",Yes,"Rs.75,000–99,999",Vehicle,"Rs.5,000,000–9,999,999",Vehicle purchase,No,No,"Yes, all",Rejected
+45–54,Male,Single,2,Postgraduate degree,Private-sector employee,More than 10 years,"Rs.50,000–99,999",No,No existing loan,Education,"Rs.1,000,000–4,999,999",Education,Yes,No,"Yes, all",Approved
+55–64,Female,Married,3,Postgraduate degree,Contract employee,6–10 years,"Rs.400,000–599,999",No,No existing loan,Personal,"Rs.500,000–999,999",Debt consolidation,Yes,No,"Yes, all",Approved
+35–44,Male,Married,1,Diploma,Government employee,6–10 years,"Rs.100,000–149,999",Yes,"Rs.25,000–49,999",Business,"Rs.5,000,000–9,999,999",Business investment,No,No,"Yes, all",Rejected
+35–44,Male,Married,5 or more,Primary,Other,Less than 1 year,"Rs.50,000–99,999",No,No existing loan,Housing,"Rs.1,000,000–4,999,999",House purchase/construction,No,No,"Yes, all",Rejected
+Below 25,Male,Single,1,Undergraduate degree,Retired,Not employed/business,"Rs.100,000–149,999",No,No existing loan,Personal,"Rs.5,000,000–9,999,999",Debt consolidation,No,No,"Yes, all",Rejected
+35–44,Male,Married,3,Undergraduate degree,Self-employed,More than 10 years,"Rs.100,000–149,999",No,No existing loan,Vehicle,"Rs.500,000–999,999",Vehicle purchase,No,No,Not sure,Rejected
+25–34,Male,Married,2,Undergraduate degree,Self-employed,More than 10 years,"Rs.100,000–149,999",Yes,"Rs.100,000+",Business,"Rs.50,000,000–74,999,999",Business investment,Yes,No,"Yes, all",Rejected
+35–44,Male,Married,3,Diploma,Contract employee,More than 10 years,"Rs.400,000–599,999",No,No existing loan,Personal,"Rs.500,000–999,999",Other,Yes,No,"Yes, all",Approved
+Below 25,Male,Single,2,Diploma,Self-employed,1–2 years,"Rs.100,000–149,999",No,No existing loan,Housing,"Rs.1,000,000–4,999,999",House purchase/construction,No,No,"Yes, all",Rejected
+35–44,Female,Married,1,Other,Private-sector employee,1–2 years,"Rs.150,000–249,999",Yes,"Rs.75,000–99,999",Business,"Rs.25,000,000–49,999,999",Business investment,Yes,Yes,"Yes, all",Rejected
+Below 25,Female,Divorced,3,Diploma,Private-sector employee,More than 10 years,"Rs.100,000–149,999",Yes,"Below Rs.10,000",Business,"Rs.10,000,000–24,999,999",Business investment,Yes,No,"Yes, all",Rejected
+35–44,Male,Married,1,Undergraduate degree,Private-sector employee,More than 10 years,"Rs.150,000–249,999",Yes,"Rs.50,000–74,999",Vehicle,"Rs.500,000–999,999",Vehicle purchase,No,No,"Yes, all",Approved
+45–54,Male,Married,4,Secondary,Private-sector employee,6–10 years,"Rs.150,000–249,999",No,No existing loan,Education,"Rs.5,000,000–9,999,999",Education,Yes,No,"Yes, all",Rejected
+25–34,Male,Married,0,Postgraduate degree,Business owner,Less than 1 year,"Rs.150,000–249,999",No,No existing loan,Personal,"Rs.500,000–999,999",Personal expenses,No,Yes,"Yes, all",Rejected
+25–34,Male,Divorced,3,Secondary,Unemployed,Not employed/business,"Rs.100,000–149,999",Yes,"Rs.75,000–99,999",Housing,"Rs.50,000,000–74,999,999",House purchase/construction,No,Yes,"No, some missing",Rejected
+55–64,Male,Married,3,Undergraduate degree,Private-sector employee,3–5 years,"Rs.100,000–149,999",Yes,"Rs.100,000+",Personal,"Below Rs.500,000",Medical expenses,Not applicable / Not required,Yes,Not sure,Rejected
+45–54,Male,Single,3,Secondary,Self-employed,3–5 years,"Rs.100,000–149,999",No,No existing loan,Personal,"Below Rs.500,000",Other,Not applicable / Not required,Yes,"Yes, all",Approved
+25–34,Female,Married,3,Diploma,Retired,Not employed/business,"Rs.250,000–399,999",No,No existing loan,Vehicle,"Rs.5,000,000–9,999,999",Vehicle purchase,No,No,"Yes, all",Approved
+25–34,Female,Widowed,0,Secondary,Private-sector employee,Less than 1 year,"Rs.1,000,000 or above",No,No existing loan,Business,"Rs.50,000,000–74,999,999",Business investment,Yes,No,"No, some missing",Approved
+25–34,Male,Married,0,Postgraduate degree,Retired,Not employed/business,"Rs.100,000–149,999",No,No existing loan,Personal,"Below Rs.500,000",Debt consolidation,No,No,"Yes, all",Approved
+25–34,Female,Married,2,Postgraduate degree,Contract employee,3–5 years,"Rs.250,000–399,999",No,No existing loan,Business,"Rs.10,000,000–24,999,999",Business investment,No,Yes,"Yes, all",Rejected
+35–44,Male,Single,3,Secondary,Government employee,3–5 years,"Rs.250,000–399,999",No,No existing loan,Education,"Below Rs.500,000",Education,Yes,No,"Yes, all",Approved
+45–54,Male,Single,0,Postgraduate degree,Self-employed,3–5 years,"Rs.400,000–599,999",No,No existing loan,Personal,"Rs.5,000,000–9,999,999",Debt consolidation,No,No,"Yes, all",Rejected
+35–44,Male,Single,0,Undergraduate degree,Self-employed,1–2 years,"Rs.600,000–999,999",No,No existing loan,Agricultural,"Rs.1,000,000–4,999,999",Agriculture,Yes,Yes,"Yes, all",Approved
+45–54,Prefer not to say,Married,0,Primary,Retired,Not employed/business,"Rs.100,000–149,999",No,No existing loan,Personal,"Rs.500,000–999,999",Other,No,Yes,"Yes, all",Approved
+45–54,Male,Single,1,Undergraduate degree,Self-employed,More than 10 years,"Rs.600,000–999,999",No,No existing loan,Personal,"Below Rs.500,000",Debt consolidation,Yes,No,"Yes, all",Approved
+35–44,Male,Single,3,Undergraduate degree,Retired,Not employed/business,"Rs.100,000–149,999",Yes,"Rs.75,000–99,999",Vehicle,"Rs.1,000,000–4,999,999",Vehicle purchase,No,No,"Yes, all",Rejected
+Below 25,Female,Married,2,Undergraduate degree,Retired,Not employed/business,"Rs.250,000–399,999",Yes,"Rs.50,000–74,999",Housing,"Rs.10,000,000–24,999,999",House purchase/construction,Yes,Yes,"Yes, all",Approved
+45–54,Male,Single,0,Undergraduate degree,Private-sector employee,1–2 years,"Rs.150,000–249,999",No,No existing loan,Vehicle,"Rs.500,000–999,999",Vehicle purchase,No,No,"Yes, all",Approved
+55–64,Male,Single,0,Undergraduate degree,Unemployed,Not employed/business,"Rs.50,000–99,999",No,No existing loan,Housing,"Rs.10,000,000–24,999,999",House purchase/construction,Yes,No,"Yes, all",Rejected
+25–34,Male,Married,2,Secondary,Unemployed,Not employed/business,"Below Rs.50,000",No,No existing loan,Vehicle,"Rs.1,000,000–4,999,999",Vehicle purchase,No,No,"Yes, all",Rejected
+35–44,Female,Married,1,Postgraduate degree,Private-sector employee,Less than 1 year,"Rs.150,000–249,999",No,No existing loan,Business,"Rs.10,000,000–24,999,999",Business investment,Yes,No,"Yes, all",Approved
+35–44,Male,Married,2,Undergraduate degree,Self-employed,1–2 years,"Rs.50,000–99,999",No,No existing loan,Personal,"Below Rs.500,000",Debt consolidation,No,No,"Yes, all",Rejected
+55–64,Male,Married,3,Postgraduate degree,Contract employee,6–10 years,"Rs.150,000–249,999",Yes,"Rs.10,000–24,999",Other,"Rs.25,000,000–49,999,999",Other,No,No,Not sure,Rejected
+25–34,Male,Single,2,Undergraduate degree,Business owner,1–2 years,"Rs.100,000–149,999",Yes,"Rs.25,000–49,999",Personal,"Rs.10,000,000–24,999,999",Other,No,No,"Yes, all",Rejected
+35–44,Male,Single,1,Secondary,Unemployed,Not employed/business,"Below Rs.50,000",No,No existing loan,Business,"Rs.25,000,000–49,999,999",Business investment,Yes,No,"Yes, all",Rejected
+Below 25,Female,Single,2,Primary,Business owner,3–5 years,"Rs.600,000–999,999",Yes,"Rs.10,000–24,999",Agricultural,"Rs.500,000–999,999",Agriculture,Yes,No,"Yes, all",Approved
+25–34,Male,Married,1,Diploma,Government employee,3–5 years,"Rs.1,000,000 or above",No,No existing loan,Personal,"Rs.500,000–999,999",Personal expenses,No,Yes,"Yes, all",Approved
+25–34,Male,Married,2,Diploma,Self-employed,6–10 years,"Rs.150,000–249,999",No,No existing loan,Business,"Rs.5,000,000–9,999,999",Business investment,Yes,No,"Yes, all",Approved
+25–34,Prefer not to say,Married,3,Undergraduate degree,Private-sector employee,1–2 years,"Rs.150,000–249,999",Yes,"Rs.100,000+",Housing,"Rs.10,000,000–24,999,999",House purchase/construction,No,Yes,"Yes, all",Rejected
+45–54,Female,Married,1,Diploma,Government employee,1–2 years,"Rs.400,000–599,999",No,No existing loan,Personal,"Rs.1,000,000–4,999,999",Debt consolidation,Yes,Yes,"Yes, all",Rejected
+25–34,Prefer not to say,Married,4,Diploma,Private-sector employee,1–2 years,"Rs.100,000–149,999",Yes,"Rs.25,000–49,999",Housing,"Rs.5,000,000–9,999,999",House purchase/construction,No,Yes,"Yes, all",Rejected
+45–54,Male,Single,0,Primary,Retired,Not employed/business,"Rs.150,000–249,999",Yes,"Rs.50,000–74,999",Housing,"Rs.10,000,000–24,999,999",House purchase/construction,Yes,Yes,"Yes, all",Rejected
+45–54,Female,Single,3,Postgraduate degree,Self-employed,6–10 years,"Rs.250,000–399,999",Yes,"Rs.25,000–49,999",Housing,"Rs.25,000,000–49,999,999",House purchase/construction,Yes,No,Not sure,Rejected
+35–44,Male,Single,1,Postgraduate degree,Contract employee,3–5 years,"Rs.100,000–149,999",No,No existing loan,Business,"Rs.100,000,000 or above",Business investment,Yes,No,Not sure,Rejected
+45–54,Male,Married,0,Undergraduate degree,Government employee,More than 10 years,"Rs.250,000–399,999",No,No existing loan,Housing,"Below Rs.500,000",House purchase/construction,Yes,No,"Yes, all",Approved
+35–44,Male,Married,0,Primary,Contract employee,6–10 years,"Rs.150,000–249,999",Yes,"Rs.50,000–74,999",Housing,"Rs.10,000,000–24,999,999",House purchase/construction,Yes,No,"Yes, all",Rejected
+35–44,Male,Married,0,Undergraduate degree,Government employee,More than 10 years,"Rs.250,000–399,999",No,No existing loan,Housing,"Rs.10,000,000–24,999,999",House purchase/construction,Yes,No,"Yes, all",Rejected
+35–44,Prefer not to say,Married,2,Secondary,Business owner,Less than 1 year,"Rs.250,000–399,999",No,No existing loan,Education,"Below Rs.500,000",Education,Yes,No,"Yes, all",Approved
+25–34,Male,Divorced,2,Undergraduate degree,Other,1–2 years,"Rs.150,000–249,999",No,No existing loan,Vehicle,"Rs.500,000–999,999",Vehicle purchase,No,Yes,"Yes, all",Rejected
+35–44,Female,Married,0,Undergraduate degree,Business owner,More than 10 years,"Rs.50,000–99,999",No,No existing loan,Personal,"Rs.500,000–999,999",Other,Not applicable / Not required,Yes,"Yes, all",Rejected
+25–34,Male,Single,0,Secondary,Business owner,Less than 1 year,"Rs.150,000–249,999",No,No existing loan,Vehicle,"Rs.500,000–999,999",Vehicle purchase,Yes,No,"Yes, all",Approved
+45–54,Male,Married,3,Diploma,Unemployed,Not employed/business,"Rs.50,000–99,999",No,No existing loan,Vehicle,"Rs.5,000,000–9,999,999",Vehicle purchase,No,Yes,"Yes, all",Rejected
+55–64,Female,Single,1,Undergraduate degree,Private-sector employee,More than 10 years,"Rs.150,000–249,999",Yes,"Rs.25,000–49,999",Vehicle,"Rs.500,000–999,999",Vehicle purchase,Yes,No,Not sure,Rejected
+55–64,Male,Married,0,Undergraduate degree,Contract employee,More than 10 years,"Rs.50,000–99,999",No,No existing loan,Personal,"Rs.1,000,000–4,999,999",Personal expenses,No,No,"Yes, all",Approved
+25–34,Female,Single,3,Undergraduate degree,Self-employed,6–10 years,"Rs.150,000–249,999",Yes,"Rs.25,000–49,999",Housing,"Rs.10,000,000–24,999,999",House purchase/construction,Yes,Yes,"Yes, all",Rejected
+Below 25,Female,Single,0,Postgraduate degree,Business owner,More than 10 years,"Rs.100,000–149,999",No,No existing loan,Business,"Rs.10,000,000–24,999,999",Business investment,Yes,No,Not sure,Rejected
+65 or above,Female,Married,4,Undergraduate degree,Private-sector employee,1–2 years,"Rs.100,000–149,999",Yes,"Rs.50,000–74,999",Business,"Rs.5,000,000–9,999,999",Business investment,Yes,No,"Yes, all",Rejected
+25–34,Male,Married,0,Postgraduate degree,Contract employee,3–5 years,"Rs.100,000–149,999",Yes,"Rs.10,000–24,999",Vehicle,"Rs.500,000–999,999",Vehicle purchase,Yes,No,"Yes, all",Rejected
+35–44,Prefer not to say,Single,0,Diploma,Private-sector employee,More than 10 years,"Rs.150,000–249,999",No,No existing loan,Housing,"Rs.25,000,000–49,999,999",House purchase/construction,Yes,No,"No, some missing",Rejected
+45–54,Male,Married,0,Secondary,Retired,Not employed/business,"Rs.150,000–249,999",Yes,"Rs.100,000+",Personal,"Below Rs.500,000",Personal expenses,No,No,"Yes, all",Approved
+45–54,Female,Married,0,Undergraduate degree,Private-sector employee,Less than 1 year,"Rs.250,000–399,999",Yes,"Rs.25,000–49,999",Personal,"Below Rs.500,000",Personal expenses,Not applicable / Not required,No,"Yes, all",Rejected
+25–34,Female,Married,5 or more,Undergraduate degree,Business owner,1–2 years,"Rs.250,000–399,999",Yes,"Below Rs.10,000",Business,"Rs.10,000,000–24,999,999",Business investment,Yes,No,"Yes, all",Approved
+25–34,Female,Married,5 or more,Postgraduate degree,Government employee,More than 10 years,"Rs.250,000–399,999",No,No existing loan,Education,"Below Rs.500,000",Education,No,No,"Yes, all",Approved
+55–64,Female,Married,0,Undergraduate degree,Private-sector employee,3–5 years,"Rs.50,000–99,999",No,No existing loan,Housing,"Rs.50,000,000–74,999,999",House purchase/construction,Yes,Yes,"Yes, all",Rejected
+35–44,Male,Single,2,Diploma,Business owner,More than 10 years,"Rs.600,000–999,999",Yes,"Rs.10,000–24,999",Housing,"Rs.25,000,000–49,999,999",House purchase/construction,Yes,Yes,"Yes, all",Approved
+65 or above,Female,Married,3,Other,Private-sector employee,Less than 1 year,"Rs.150,000–249,999",Yes,"Rs.50,000–74,999",Agricultural,"Rs.1,000,000–4,999,999",Agriculture,Yes,No,"Yes, all",Rejected
+35–44,Female,Married,0,Primary,Private-sector employee,6–10 years,"Rs.1,000,000 or above",No,No existing loan,Personal,"Rs.500,000–999,999",Medical expenses,Not applicable / Not required,No,"Yes, all",Approved
+35–44,Male,Divorced,4,Other,Government employee,Less than 1 year,"Rs.400,000–599,999",No,No existing loan,Personal,"Rs.10,000,000–24,999,999",Debt consolidation,Yes,No,"Yes, all",Approved
+45–54,Male,Married,0,Diploma,Self-employed,More than 10 years,"Rs.150,000–249,999",No,No existing loan,Vehicle,"Rs.5,000,000–9,999,999",Vehicle purchase,Yes,Yes,"Yes, all",Approved
+45–54,Male,Married,2,Undergraduate degree,Government employee,More than 10 years,"Rs.100,000–149,999",No,No existing loan,Personal,"Rs.1,000,000–4,999,999",Personal expenses,Yes,Yes,"Yes, all",Rejected
+25–34,Male,Married,3,Postgraduate degree,Self-employed,3–5 years,"Rs.150,000–249,999",No,No existing loan,Business,"Rs.1,000,000–4,999,999",Business investment,No,No,"Yes, all",Approved
+35–44,Female,Married,2,Undergraduate degree,Unemployed,Not employed/business,"Below Rs.50,000",Yes,"Rs.100,000+",Business,"Rs.1,000,000–4,999,999",Business investment,Yes,No,"Yes, all",Rejected
+Below 25,Male,Married,5 or more,Undergraduate degree,Contract employee,More than 10 years,"Rs.50,000–99,999",No,No existing loan,Business,"Rs.5,000,000–9,999,999",Business investment,No,No,"Yes, all",Rejected
+45–54,Female,Widowed,0,Secondary,Contract employee,1–2 years,"Rs.250,000–399,999",No,No existing loan,Education,"Rs.1,000,000–4,999,999",Education,No,No,"Yes, all",Approved
+25–34,Male,Single,2,Diploma,Private-sector employee,3–5 years,"Rs.50,000–99,999",No,No existing loan,Education,"Rs.1,000,000–4,999,999",Education,No,No,"Yes, all",Rejected
+65 or above,Male,Married,2,Undergraduate degree,Contract employee,3–5 years,"Rs.400,000–599,999",No,No existing loan,Personal,"Rs.500,000–999,999",Debt consolidation,Yes,No,"Yes, all",Approved
+25–34,Male,Single,1,Undergraduate degree,Government employee,Less than 1 year,"Rs.600,000–999,999",Yes,"Rs.25,000–49,999",Personal,"Rs.500,000–999,999",Other,Yes,No,"Yes, all",Approved
+65 or above,Male,Married,5 or more,Secondary,Business owner,6–10 years,"Rs.50,000–99,999",Yes,"Rs.50,000–74,999",Business,"Rs.5,000,000–9,999,999",Business investment,No,Yes,"Yes, all",Rejected
+25–34,Female,Single,3,Secondary,Private-sector employee,3–5 years,"Rs.250,000–399,999",No,No existing loan,Vehicle,"Rs.5,000,000–9,999,999",Vehicle purchase,No,No,"Yes, all",Approved
+45–54,Male,Single,0,Undergraduate degree,Government employee,6–10 years,"Rs.400,000–599,999",No,No existing loan,Agricultural,"Rs.500,000–999,999",Agriculture,Yes,Yes,"Yes, all",Approved
+Below 25,Male,Single,2,Postgraduate degree,Unemployed,Not employed/business,"Below Rs.50,000",No,No existing loan,Agricultural,"Rs.5,000,000–9,999,999",Agriculture,Yes,Yes,Not sure,Rejected
+45–54,Female,Married,5 or more,Postgraduate degree,Government employee,Less than 1 year,"Rs.150,000–249,999",No,No existing loan,Housing,"Rs.1,000,000–4,999,999",House purchase/construction,No,No,"Yes, all",Approved
+35–44,Female,Married,0,Secondary,Unemployed,Not employed/business,"Below Rs.50,000",No,No existing loan,Personal,"Below Rs.500,000",Personal expenses,Not applicable / Not required,No,"Yes, all",Rejected
+35–44,Female,Single,3,Undergraduate degree,Retired,Not employed/business,"Rs.150,000–249,999",No,No existing loan,Education,"Rs.5,000,000–9,999,999",Education,Yes,No,Not sure,Approved
+25–34,Female,Prefer not to say,0,Undergraduate degree,Retired,Not employed/business,"Rs.150,000–249,999",Yes,"Rs.10,000–24,999",Vehicle,"Rs.1,000,000–4,999,999",Vehicle purchase,No,No,"Yes, all",Rejected
+35–44,Male,Married,3,Secondary,Self-employed,3–5 years,"Rs.250,000–399,999",Yes,"Rs.50,000–74,999",Personal,"Rs.1,000,000–4,999,999",Debt consolidation,No,Yes,"Yes, all",Approved
+35–44,Male,Single,5 or more,Diploma,Contract employee,6–10 years,"Rs.150,000–249,999",No,No existing loan,Vehicle,"Rs.1,000,000–4,999,999",Vehicle purchase,No,No,"Yes, all",Approved
+35–44,Male,Single,0,Diploma,Contract employee,1–2 years,"Rs.100,000–149,999",Yes,"Rs.25,000–49,999",Personal,"Rs.25,000,000–49,999,999",Debt consolidation,Yes,No,"Yes, all",Approved
+45–54,Female,Single,3,Diploma,Government employee,More than 10 years,"Rs.150,000–249,999",No,No existing loan,Personal,"Rs.500,000–999,999",Medical expenses,Not applicable / Not required,No,"Yes, all",Approved
+25–34,Male,Married,4,Undergraduate degree,Self-employed,More than 10 years,"Rs.150,000–249,999",No,No existing loan,Personal,"Rs.1,000,000–4,999,999",Other,No,No,"Yes, all",Approved
+25–34,Female,Widowed,1,Postgraduate degree,Private-sector employee,3–5 years,"Rs.400,000–599,999",No,No existing loan,Vehicle,"Rs.500,000–999,999",Vehicle purchase,Yes,No,"Yes, all",Approved
+25–34,Female,Single,0,Diploma,Other,Less than 1 year,"Rs.150,000–249,999",No,No existing loan,Personal,"Below Rs.500,000",Debt consolidation,No,No,"Yes, all",Rejected
+25–34,Male,Married,0,Undergraduate degree,Unemployed,Not employed/business,"Rs.50,000–99,999",Yes,"Rs.25,000–49,999",Housing,"Rs.25,000,000–49,999,999",House purchase/construction,Yes,Yes,"Yes, all",Rejected
+25–34,Female,Married,2,Undergraduate degree,Contract employee,3–5 years,"Rs.50,000–99,999",No,No existing loan,Business,"Rs.10,000,000–24,999,999",Business investment,Yes,No,"Yes, all",Rejected
+35–44,Female,Single,4,Postgraduate degree,Private-sector employee,1–2 years,"Rs.50,000–99,999",Yes,"Rs.10,000–24,999",Other,"Rs.1,000,000–4,999,999",Business investment,No,No,"Yes, all",Rejected
+25–34,Male,Married,1,Undergraduate degree,Private-sector employee,3–5 years,"Rs.50,000–99,999",No,No existing loan,Housing,"Rs.75,000,000–99,999,999",House purchase/construction,Yes,No,"Yes, all",Rejected
+25–34,Female,Single,0,Undergraduate degree,Retired,Not employed/business,"Rs.250,000–399,999",No,No existing loan,Business,"Rs.50,000,000–74,999,999",Business investment,Yes,No,"Yes, all",Rejected
+25–34,Male,Married,3,Undergraduate degree,Retired,Not employed/business,"Rs.150,000–249,999",No,No existing loan,Vehicle,"Rs.5,000,000–9,999,999",Vehicle purchase,No,No,"Yes, all",Approved
+25–34,Male,Single,2,Undergraduate degree,Contract employee,3–5 years,"Rs.250,000–399,999",No,No existing loan,Personal,"Below Rs.500,000",Personal expenses,No,Yes,"Yes, all",Approved
+Below 25,Male,Married,5 or more,Undergraduate degree,Unemployed,Not employed/business,"Rs.50,000–99,999",No,No existing loan,Business,"Rs.5,000,000–9,999,999",Business investment,Yes,Yes,"Yes, all",Rejected
+35–44,Female,Married,1,Postgraduate degree,Private-sector employee,More than 10 years,"Rs.100,000–149,999",No,No existing loan,Agricultural,"Rs.500,000–999,999",Agriculture,No,Yes,"Yes, all",Approved
+45–54,Female,Married,0,Undergraduate degree,Contract employee,Less than 1 year,"Rs.600,000–999,999",Yes,"Rs.10,000–24,999",Business,"Rs.25,000,000–49,999,999",Business investment,Yes,No,"Yes, all",Approved
+25–34,Female,Single,0,Diploma,Self-employed,3–5 years,"Rs.50,000–99,999",No,No existing loan,Business,"Rs.500,000–999,999",Business investment,Yes,No,"Yes, all",Approved

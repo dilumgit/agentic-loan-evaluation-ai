@@ -1,0 +1,80 @@
+{
+  "documents": {
+    "doc_1c0f71deb666": {
+      "document_id": "doc_1c0f71deb666",
+      "document_name": "Agricultural And Business Loan Underwriting Policy",
+      "document_type": "PDF",
+      "source_file": "AGRICULTURAL AND BUSINESS LOAN UNDERWRITING POLICY.pdf",
+      "file_hash": "1c0f71deb666ee16f034287ee3c1b98804312c58203a0db79529e87b0c34f6a1",
+      "file_size_bytes": 155167,
+      "total_extracted_blocks": 2,
+      "total_chunks": 7,
+      "upload_timestamp": "2026-08-23T12:54:58.114087+00:00",
+      "policy_version": "1.0",
+      "effective_date": "2026-08-23",
+      "status": "active",
+      "chunks_indexed": 7
+    },
+    "doc_1decd71df9d3": {
+      "document_id": "doc_1decd71df9d3",
+      "document_name": "General Credit Eligibility And Underwriting Policy",
+      "document_type": "PDF",
+      "source_file": "GENERAL CREDIT ELIGIBILITY AND UNDERWRITING POLICY.pdf",
+      "file_hash": "1decd71df9d3d0aa0052859eede72c615985e292082306433a668d58f195f1bd",
+      "file_size_bytes": 153518,
+      "total_extracted_blocks": 2,
+      "total_chunks": 9,
+      "upload_timestamp": "2026-08-23T12:55:18.682179+00:00",
+      "policy_version": "1.0",
+      "effective_date": "2026-08-23",
+      "status": "active",
+      "chunks_indexed": 9
+    },
+    "doc_3373f5b2e63a": {
+      "document_id": "doc_3373f5b2e63a",
+      "document_name": "Housing Loan Underwriting Policy",
+      "document_type": "PDF",
+      "source_file": "HOUSING LOAN UNDERWRITING POLICY.pdf",
+      "file_hash": "3373f5b2e63acd511db3aaa437ee7945efbf66461b6bd77a502eb3f458c7fa7e",
+      "file_size_bytes": 142799,
+      "total_extracted_blocks": 2,
+      "total_chunks": 5,
+      "upload_timestamp": "2026-08-23T12:55:30.973140+00:00",
+      "policy_version": "1.0",
+      "effective_date": "2026-08-23",
+      "status": "active",
+      "chunks_indexed": 5
+    },
+    "doc_7ce5e8168f42": {
+      "document_id": "doc_7ce5e8168f42",
+      "document_name": "Personal Loan Underwriting Policy",
+      "document_type": "PDF",
+      "source_file": "PERSONAL LOAN UNDERWRITING POLICY.pdf",
+      "file_hash": "7ce5e8168f42257d8bd912c71d7c742980673e3391fbcb9158094455c2934564",
+      "file_size_bytes": 103813,
+      "total_extracted_blocks": 2,
+      "total_chunks": 7,
+      "upload_timestamp": "2026-08-23T12:55:39.168406+00:00",
+      "policy_version": "1.0",
+      "effective_date": "2026-08-23",
+      "status": "active",
+      "chunks_indexed": 7
+    },
+    "doc_3aee1133bafe": {
+      "document_id": "doc_3aee1133bafe",
+      "document_name": "Vehicle Loan Underwriting Policy",
+      "document_type": "PDF",
+      "source_file": "VEHICLE LOAN UNDERWRITING POLICY.pdf",
+      "file_hash": "3aee1133bafe2731bc6930949a61a34bb5922dd75c54cfd949be32eaf2060bfb",
+      "file_size_bytes": 103574,
+      "total_extracted_blocks": 2,
+      "total_chunks": 7,
+      "upload_timestamp": "2026-08-23T12:55:48.194715+00:00",
+      "policy_version": "1.0",
+      "effective_date": "2026-08-23",
+      "status": "active",
+      "chunks_indexed": 7
+    }
+  },
+  "total_documents": 5
+}

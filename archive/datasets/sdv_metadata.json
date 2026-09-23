@@ -1,0 +1,61 @@
+{
+    "tables": {
+        "loan_evaluation": {
+            "columns": {
+                "Age Group": {
+                    "sdtype": "categorical"
+                },
+                "Gender": {
+                    "sdtype": "categorical"
+                },
+                "Marital Status": {
+                    "sdtype": "categorical"
+                },
+                "Number of Dependents": {
+                    "sdtype": "categorical"
+                },
+                "Education Level": {
+                    "sdtype": "categorical"
+                },
+                "Employment Type": {
+                    "sdtype": "categorical"
+                },
+                "Employment Duration": {
+                    "sdtype": "categorical"
+                },
+                "Monthly Income": {
+                    "sdtype": "categorical"
+                },
+                "Existing Loan Status": {
+                    "sdtype": "categorical"
+                },
+                "Monthly Loan Repayment": {
+                    "sdtype": "categorical"
+                },
+                "Loan Type": {
+                    "sdtype": "categorical"
+                },
+                "Requested Loan Amount": {
+                    "sdtype": "categorical"
+                },
+                "Loan Purpose": {
+                    "sdtype": "categorical"
+                },
+                "Collateral Availability": {
+                    "sdtype": "categorical"
+                },
+                "Guarantor Availability": {
+                    "sdtype": "categorical"
+                },
+                "Required Documents Submitted": {
+                    "sdtype": "categorical"
+                },
+                "Loan Application Result": {
+                    "sdtype": "categorical"
+                }
+            }
+        }
+    },
+    "relationships": [],
+    "METADATA_SPEC_VERSION": "V1"
+}

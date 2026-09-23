@@ -1,0 +1,94 @@
+Feature,Category,Seed_Count_500,Seed_Pct,SDV_Count_2500,SDV_Pct,Percentage_Point_Diff,Abs_Percentage_Point_Diff
+Age Group,25–34,153,30.6,827,33.08,2.48,2.48
+Age Group,35–44,129,25.8,612,24.48,-1.32,1.32
+Age Group,45–54,108,21.6,532,21.28,-0.32,0.32
+Age Group,55–64,53,10.6,217,8.68,-1.92,1.92
+Age Group,65 or above,20,4.0,119,4.76,0.76,0.76
+Age Group,Below 25,37,7.4,193,7.72,0.32,0.32
+Gender,Female,212,42.4,980,39.2,-3.2,3.2
+Gender,Male,278,55.6,1447,57.88,2.28,2.28
+Gender,Prefer not to say,10,2.0,73,2.92,0.92,0.92
+Marital Status,Divorced,19,3.8,78,3.12,-0.68,0.68
+Marital Status,Married,293,58.6,1675,67.0,8.4,8.4
+Marital Status,Prefer not to say,7,1.4,58,2.32,0.92,0.92
+Marital Status,Single,164,32.8,615,24.6,-8.2,8.2
+Marital Status,Widowed,17,3.4,74,2.96,-0.44,0.44
+Number of Dependents,0,137,27.4,834,33.36,5.96,5.96
+Number of Dependents,1,115,23.0,458,18.32,-4.68,4.68
+Number of Dependents,2,108,21.6,509,20.36,-1.24,1.24
+Number of Dependents,3,87,17.4,429,17.16,-0.24,0.24
+Number of Dependents,4,26,5.2,137,5.48,0.28,0.28
+Number of Dependents,5 or more,27,5.4,133,5.32,-0.08,0.08
+Education Level,Diploma,115,23.0,602,24.08,1.08,1.08
+Education Level,No formal education,4,0.8,33,1.32,0.52,0.52
+Education Level,Other,10,2.0,75,3.0,1.0,1.0
+Education Level,Postgraduate degree,70,14.0,330,13.2,-0.8,0.8
+Education Level,Primary,17,3.4,116,4.64,1.24,1.24
+Education Level,Secondary,81,16.2,432,17.28,1.08,1.08
+Education Level,Undergraduate degree,203,40.6,912,36.48,-4.12,4.12
+Employment Type,Business owner,72,14.4,309,12.36,-2.04,2.04
+Employment Type,Contract employee,62,12.4,297,11.88,-0.52,0.52
+Employment Type,Government employee,68,13.6,410,16.4,2.8,2.8
+Employment Type,Other,12,2.4,74,2.96,0.56,0.56
+Employment Type,Private-sector employee,141,28.2,597,23.88,-4.32,4.32
+Employment Type,Retired,34,6.8,151,6.04,-0.76,0.76
+Employment Type,Self-employed,78,15.6,461,18.44,2.84,2.84
+Employment Type,Unemployed,33,6.6,201,8.04,1.44,1.44
+Employment Duration,1–2 years,82,16.4,525,21.0,4.6,4.6
+Employment Duration,3–5 years,123,24.6,511,20.44,-4.16,4.16
+Employment Duration,6–10 years,84,16.8,459,18.36,1.56,1.56
+Employment Duration,Less than 1 year,58,11.6,285,11.4,-0.2,0.2
+Employment Duration,More than 10 years,86,17.2,347,13.88,-3.32,3.32
+Employment Duration,Not employed/business,67,13.4,373,14.92,1.52,1.52
+Monthly Income,"Below Rs.50,000",17,3.4,111,4.44,1.04,1.04
+Monthly Income,"Rs.1,000,000 or above",22,4.4,126,5.04,0.64,0.64
+Monthly Income,"Rs.100,000–149,999",95,19.0,480,19.2,0.2,0.2
+Monthly Income,"Rs.150,000–249,999",127,25.4,585,23.4,-2.0,2.0
+Monthly Income,"Rs.250,000–399,999",87,17.4,393,15.72,-1.68,1.68
+Monthly Income,"Rs.400,000–599,999",63,12.6,345,13.8,1.2,1.2
+Monthly Income,"Rs.50,000–99,999",66,13.2,360,14.4,1.2,1.2
+Monthly Income,"Rs.600,000–999,999",23,4.6,100,4.0,-0.6,0.6
+Existing Loan Status,No,318,63.6,1297,51.88,-11.72,11.72
+Existing Loan Status,Yes,182,36.4,1203,48.12,11.72,11.72
+Monthly Loan Repayment,"Below Rs.10,000",22,4.4,139,5.56,1.16,1.16
+Monthly Loan Repayment,No existing loan,318,63.6,1549,61.96,-1.64,1.64
+Monthly Loan Repayment,"Rs.10,000–24,999",45,9.0,204,8.16,-0.84,0.84
+Monthly Loan Repayment,"Rs.100,000+",12,2.4,87,3.48,1.08,1.08
+Monthly Loan Repayment,"Rs.25,000–49,999",40,8.0,212,8.48,0.48,0.48
+Monthly Loan Repayment,"Rs.50,000–74,999",40,8.0,211,8.44,0.44,0.44
+Monthly Loan Repayment,"Rs.75,000–99,999",23,4.6,98,3.92,-0.68,0.68
+Loan Type,Agricultural,47,9.4,228,9.12,-0.28,0.28
+Loan Type,Business,79,15.8,384,15.36,-0.44,0.44
+Loan Type,Education,35,7.0,174,6.96,-0.04,0.04
+Loan Type,Housing,88,17.6,518,20.72,3.12,3.12
+Loan Type,Other,29,5.8,128,5.12,-0.68,0.68
+Loan Type,Personal,149,29.8,703,28.12,-1.68,1.68
+Loan Type,Vehicle,73,14.6,365,14.6,0.0,0.0
+Requested Loan Amount,"Below Rs.500,000",61,12.2,272,10.88,-1.32,1.32
+Requested Loan Amount,"Rs.1,000,000–4,999,999",113,22.6,551,22.04,-0.56,0.56
+Requested Loan Amount,"Rs.10,000,000–24,999,999",67,13.4,285,11.4,-2.0,2.0
+Requested Loan Amount,"Rs.100,000,000 or above",4,0.8,25,1.0,0.2,0.2
+Requested Loan Amount,"Rs.25,000,000–49,999,999",45,9.0,238,9.52,0.52,0.52
+Requested Loan Amount,"Rs.5,000,000–9,999,999",78,15.6,458,18.32,2.72,2.72
+Requested Loan Amount,"Rs.50,000,000–74,999,999",19,3.8,103,4.12,0.32,0.32
+Requested Loan Amount,"Rs.500,000–999,999",100,20.0,517,20.68,0.68,0.68
+Requested Loan Amount,"Rs.75,000,000–99,999,999",13,2.6,51,2.04,-0.56,0.56
+Loan Purpose,Agriculture,49,9.8,239,9.56,-0.24,0.24
+Loan Purpose,Business investment,84,16.8,431,17.24,0.44,0.44
+Loan Purpose,Debt consolidation,47,9.4,245,9.8,0.4,0.4
+Loan Purpose,Education,38,7.6,170,6.8,-0.8,0.8
+Loan Purpose,House purchase/construction,90,18.0,427,17.08,-0.92,0.92
+Loan Purpose,Medical expenses,36,7.2,164,6.56,-0.64,0.64
+Loan Purpose,Other,40,8.0,249,9.96,1.96,1.96
+Loan Purpose,Personal expenses,40,8.0,206,8.24,0.24,0.24
+Loan Purpose,Vehicle purchase,76,15.2,369,14.76,-0.44,0.44
+Collateral Availability,No,209,41.8,993,39.72,-2.08,2.08
+Collateral Availability,Not applicable / Not required,30,6.0,205,8.2,2.2,2.2
+Collateral Availability,Yes,261,52.2,1302,52.08,-0.12,0.12
+Guarantor Availability,No,346,69.2,1648,65.92,-3.28,3.28
+Guarantor Availability,Yes,154,30.8,852,34.08,3.28,3.28
+Required Documents Submitted,"No, some missing",26,5.2,130,5.2,0.0,0.0
+Required Documents Submitted,Not sure,48,9.6,236,9.44,-0.16,0.16
+Required Documents Submitted,"Yes, all",426,85.2,2134,85.36,0.16,0.16
+Loan Application Result,Approved,232,46.4,813,32.52,-13.88,13.88
+Loan Application Result,Rejected,268,53.6,1687,67.48,13.88,13.88

@@ -1,0 +1,56 @@
+Feature,Gain_Importance,Normalized_Importance_%
+"Required Documents Submitted_Yes, all",0.029498024,2.949802
+Loan Purpose_Education,0.023036746,2.3036745
+Loan Type_Education,0.022767644,2.2767642
+Loan Purpose_Agriculture,0.022453433,2.2453432
+Guarantor Availability_Yes,0.022430273,2.2430272
+Employment Type_Unemployed,0.022410652,2.241065
+Existing Loan Status_Yes,0.021754237,2.1754236
+Education Level_Primary,0.020981586,2.0981584
+Loan Type_Vehicle,0.020866241,2.086624
+Employment Type_Government employee,0.02028307,2.0283067
+Loan Purpose_Other,0.020158954,2.0158951
+Employment Type_Business owner,0.020059817,2.0059814
+Guarantor Availability_No,0.019714812,1.971481
+Employment Type_Self-employed,0.019503241,1.9503239
+Monthly Income,0.019348565,1.9348564
+Loan Purpose_Vehicle purchase,0.019172937,1.9172934
+Collateral Availability_Not applicable / Not required,0.019164002,1.9164
+Age Group,0.019066526,1.9066523
+Loan Purpose_Personal expenses,0.019029217,1.9029214
+Loan Type_Agricultural,0.019015243,1.9015242
+Education Level_Diploma,0.018959992,1.895999
+Gender_Male,0.018754452,1.875445
+Required Documents Submitted_Not sure,0.01863474,1.8634739
+Requested Loan Amount,0.01847019,1.8470188
+Loan Type_Personal,0.018352639,1.8352637
+Existing Loan Status_No,0.01833549,1.8335488
+Employment Duration,0.018120134,1.8120133
+Employment Type_Private-sector employee,0.017937861,1.7937859
+Loan Purpose_Medical expenses,0.017917575,1.7917573
+Number of Dependents,0.017871702,1.78717
+Marital Status_Widowed,0.017833227,1.7833226
+Monthly Loan Repayment,0.017824622,1.782462
+Collateral Availability_Yes,0.017809452,1.7809451
+Loan Purpose_Debt consolidation,0.017758233,1.7758231
+Collateral Availability_No,0.01773121,1.7731209
+Loan Type_Housing,0.017591145,1.7591143
+Education Level_Postgraduate degree,0.017569857,1.7569854
+Employment Type_Retired,0.017087582,1.7087581
+Employment Type_Other,0.01680415,1.6804148
+Gender_Female,0.016716396,1.6716394
+Loan Purpose_House purchase/construction,0.016678357,1.6678356
+Loan Purpose_Business investment,0.016598359,1.6598357
+Marital Status_Single,0.016147092,1.614709
+Education Level_Secondary,0.01614257,1.6142567
+Education Level_Undergraduate degree,0.016132636,1.6132634
+Loan Type_Other,0.015768185,1.5768183
+Marital Status_Divorced,0.015616553,1.561655
+Marital Status_Prefer not to say,0.015511889,1.5511887
+Loan Type_Business,0.0149017405,1.4901738
+Employment Type_Contract employee,0.014866364,1.4866363
+Gender_Prefer not to say,0.014572625,1.4572623
+Marital Status_Married,0.013837524,1.3837522
+Education Level_Other,0.01364014,1.3640138
+"Required Documents Submitted_No, some missing",0.0111158695,1.1115868
+Education Level_No formal education,0.009674318,0.9674317

@@ -1,0 +1,17 @@
+Feature,Categories,Chi2_Statistic,p_value,Degrees_of_Freedom,Cramers_V,Statistically_Significant (p<0.05)
+Monthly Income,8,21.8753,0.002669,7,0.0854,True
+Required Documents Submitted,3,19.4663,5.9e-05,2,0.0806,True
+Employment Duration,6,15.1521,0.009732,5,0.0711,True
+Requested Loan Amount,9,11.3408,0.183129,8,0.0615,False
+Education Level,7,11.2312,0.081488,6,0.0612,False
+Employment Type,8,8.018,0.331006,7,0.0517,False
+Loan Purpose,9,7.1465,0.52091,8,0.0488,False
+Loan Type,7,6.8051,0.339247,6,0.0476,False
+Existing Loan Status,2,3.6756,0.055214,1,0.035,False
+Marital Status,5,2.2771,0.684942,4,0.0276,False
+Number of Dependents,6,2.0006,0.849059,5,0.0258,False
+Age Group,6,1.1403,0.950473,5,0.0195,False
+Collateral Availability,3,0.8927,0.639952,2,0.0173,False
+Monthly Loan Repayment,7,0.7093,0.994289,6,0.0154,False
+Guarantor Availability,2,0.2312,0.630666,1,0.0088,False
+Gender,3,0.2286,0.892008,2,0.0087,False

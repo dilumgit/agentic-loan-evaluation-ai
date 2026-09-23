@@ -1,0 +1,66 @@
+{
+  "dataset_name": "loan_evaluation_dataset_3000.csv (500 Seed + 2,500 SDV CTGAN Synthetic)",
+  "model_name": "XGBoost Proposed Model",
+  "training_size": 2400,
+  "test_size": 600,
+  "num_features": 55,
+  "hyperparameters": {
+    "objective": "binary:logistic",
+    "n_estimators": 200,
+    "max_depth": 4,
+    "learning_rate": 0.05,
+    "subsample": 0.8,
+    "colsample_bytree": 0.8,
+    "scale_pos_weight": 1.8708,
+    "random_state": 42,
+    "eval_metric": "logloss",
+    "n_jobs": -1
+  },
+  "scale_pos_weight": 1.8708,
+  "accuracy": 0.545,
+  "precision": 0.372,
+  "recall": 0.445,
+  "f1_score": 0.4052,
+  "roc_auc": 0.5422,
+  "confusion_matrix": [
+    [
+      234,
+      157
+    ],
+    [
+      116,
+      93
+    ]
+  ],
+  "true_negatives": 234,
+  "false_positives": 157,
+  "false_negatives": 116,
+  "true_positives": 93,
+  "classification_report": {
+    "Rejected (0)": {
+      "precision": 0.6685714285714286,
+      "recall": 0.59846547314578,
+      "f1-score": 0.631578947368421,
+      "support": 391.0
+    },
+    "Approved (1)": {
+      "precision": 0.372,
+      "recall": 0.4449760765550239,
+      "f1-score": 0.40522875816993464,
+      "support": 209.0
+    },
+    "accuracy": 0.545,
+    "macro avg": {
+      "precision": 0.5202857142857142,
+      "recall": 0.521720774850402,
+      "f1-score": 0.5184038527691779,
+      "support": 600.0
+    },
+    "weighted avg": {
+      "precision": 0.5652657142857143,
+      "recall": 0.545,
+      "f1-score": 0.5527336314642817,
+      "support": 600.0
+    }
+  }
+}

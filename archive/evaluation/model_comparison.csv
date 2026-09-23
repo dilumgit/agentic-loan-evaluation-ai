@@ -1,0 +1,4 @@
+Model,Accuracy,Precision,Recall,F1-Score,ROC-AUC
+Random Forest (Baseline),0.6033,0.3986,0.2727,0.3239,0.5518
+XGBoost (Proposed),0.545,0.372,0.445,0.4052,0.5422
+Absolute Difference (XGB - RF),-0.0583,-0.0266,0.1723,0.0813,-0.0096

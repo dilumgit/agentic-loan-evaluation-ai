@@ -1,0 +1,87 @@
+{
+  "dataset_name": "loan_evaluation_dataset_3000_v2.csv (Gaussian Copula Augmented)",
+  "dataset_path": "data/synthetic/loan_evaluation_dataset_3000_v2.csv",
+  "dataset_size": 3000,
+  "train_size": 2400,
+  "test_size": 600,
+  "num_features": 55,
+  "target_distribution": {
+    "Approved": 1396,
+    "Rejected": 1604
+  },
+  "model_configuration": {
+    "model_type": "RandomForestClassifier",
+    "n_estimators": 200,
+    "random_state": 42,
+    "class_weight": "balanced",
+    "n_jobs": -1
+  },
+  "test_metrics": {
+    "accuracy": 0.5867,
+    "precision": 0.5572,
+    "recall": 0.5412,
+    "f1_score": 0.5491,
+    "roc_auc": 0.629,
+    "average_precision": 0.5572
+  },
+  "confusion_matrix": {
+    "true_negatives": 201,
+    "false_positives": 120,
+    "false_negatives": 128,
+    "true_positives": 151
+  },
+  "cross_validation_5_fold": {
+    "accuracy_mean": 0.6088,
+    "accuracy_std": 0.022,
+    "precision_mean": 0.5799,
+    "precision_std": 0.0273,
+    "recall_mean": 0.5864,
+    "recall_std": 0.031,
+    "f1_mean": 0.5824,
+    "f1_std": 0.0202,
+    "roc_auc_mean": 0.646,
+    "roc_auc_std": 0.0238
+  },
+  "top_10_features_gini": [
+    {
+      "Feature": "Requested Loan Amount",
+      "Gini_Importance": 0.07419654890196438
+    },
+    {
+      "Feature": "Monthly Income",
+      "Gini_Importance": 0.06868703523541114
+    },
+    {
+      "Feature": "Employment Duration",
+      "Gini_Importance": 0.06234961492014805
+    },
+    {
+      "Feature": "Age Group",
+      "Gini_Importance": 0.05847793523614119
+    },
+    {
+      "Feature": "Number of Dependents",
+      "Gini_Importance": 0.058328930084735345
+    },
+    {
+      "Feature": "Monthly Loan Repayment",
+      "Gini_Importance": 0.041174917118886815
+    },
+    {
+      "Feature": "Required Documents Submitted_Yes, all",
+      "Gini_Importance": 0.02289323798184746
+    },
+    {
+      "Feature": "Education Level_Undergraduate degree",
+      "Gini_Importance": 0.021299800461234565
+    },
+    {
+      "Feature": "Marital Status_Married",
+      "Gini_Importance": 0.019466931970923265
+    },
+    {
+      "Feature": "Employment Type_Private-sector employee",
+      "Gini_Importance": 0.019396744498631113
+    }
+  ]
+}

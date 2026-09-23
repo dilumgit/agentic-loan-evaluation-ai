@@ -1,0 +1,17 @@
+# Environment variables
+.env
+*.env
+
+# Python bytecode & caches
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+
+# Vectorstore persistent indexes (large local binaries)
+rag/vectorstore/
+
+# Training logs and telemetry
+catboost_info/
+*.log
+

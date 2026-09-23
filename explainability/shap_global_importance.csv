@@ -1,0 +1,56 @@
+Rank,Feature,Mean Absolute SHAP Value
+1,Monthly Income,0.926771
+2,Requested Loan Amount,0.745944
+3,"Required Documents Submitted_Yes, all",0.386696
+4,Monthly Loan Repayment,0.341712
+5,Collateral Availability_Yes,0.268226
+6,Employment Duration,0.193444
+7,Collateral Availability_No,0.137916
+8,Guarantor Availability_No,0.120679
+9,Employment Type_Unemployed,0.104277
+10,Number of Dependents,0.083272
+11,Employment Type_Contract employee,0.074429
+12,Gender_Female,0.070381
+13,Gender_Male,0.062251
+14,Age Group,0.052922
+15,Education Level_Undergraduate degree,0.052447
+16,Loan Purpose_Debt consolidation,0.04843
+17,Employment Type_Self-employed,0.047191
+18,"Required Documents Submitted_No, some missing",0.045316
+19,Loan Type_Business,0.038412
+20,Education Level_Diploma,0.03609
+21,Employment Type_Private-sector employee,0.035568
+22,Employment Type_Government employee,0.028981
+23,Employment Type_Other,0.028608
+24,Loan Type_Agricultural,0.026736
+25,Existing Loan Status_No,0.017945
+26,Marital Status_Married,0.01777
+27,Education Level_Postgraduate degree,0.016516
+28,Employment Type_Business owner,0.01593
+29,Collateral Availability_Not applicable / Not required,0.014751
+30,Employment Type_Retired,0.014467
+31,Loan Purpose_Business investment,0.014223
+32,Loan Purpose_Medical expenses,0.012387
+33,Loan Type_Personal,0.012351
+34,Marital Status_Divorced,0.011518
+35,Required Documents Submitted_Not sure,0.010078
+36,Loan Type_Housing,0.008736
+37,Guarantor Availability_Yes,0.008674
+38,Loan Purpose_Other,0.008648
+39,Marital Status_Single,0.008019
+40,Loan Type_Vehicle,0.008004
+41,Loan Purpose_Personal expenses,0.00754
+42,Education Level_No formal education,0.006556
+43,Education Level_Secondary,0.006531
+44,Loan Purpose_House purchase/construction,0.006357
+45,Existing Loan Status_Yes,0.004946
+46,Marital Status_Widowed,0.004792
+47,Loan Purpose_Education,0.003676
+48,Loan Type_Education,0.003314
+49,Loan Purpose_Agriculture,0.003304
+50,Education Level_Other,0.003077
+51,Loan Purpose_Vehicle purchase,0.002754
+52,Education Level_Primary,0.002727
+53,Loan Type_Other,0.002652
+54,Gender_Prefer not to say,0.002465
+55,Marital Status_Prefer not to say,0.00117

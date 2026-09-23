@@ -1,0 +1,61 @@
+{
+  "dataset_name": "loan_evaluation_dataset_3000_v2.csv",
+  "selected_synthesizer": "GaussianCopulaSynthesizer",
+  "total_records": 3000,
+  "empirical_seed_records": 500,
+  "synthetic_records": 2500,
+  "total_raw_columns": 17,
+  "num_raw_predictors": 16,
+  "target_distribution_overall": {
+    "Approved": 1396,
+    "Approved_percentage": 46.53,
+    "Rejected": 1604,
+    "Rejected_percentage": 53.47
+  },
+  "train_test_split": {
+    "train_samples": 2400,
+    "test_samples": 600,
+    "split_ratio": "80/20",
+    "stratified": true,
+    "random_state": 42,
+    "train_target_distribution": {
+      "Approved": 1117,
+      "Approved_percentage": 46.54,
+      "Rejected": 1283,
+      "Rejected_percentage": 53.46
+    },
+    "test_target_distribution": {
+      "Approved": 279,
+      "Approved_percentage": 46.5,
+      "Rejected": 321,
+      "Rejected_percentage": 53.5
+    }
+  },
+  "transformed_feature_count": 55,
+  "preprocessing_configuration": {
+    "ordinal_features": [
+      "Age Group",
+      "Number of Dependents",
+      "Employment Duration",
+      "Monthly Income",
+      "Monthly Loan Repayment",
+      "Requested Loan Amount"
+    ],
+    "ordinal_count": 6,
+    "nominal_features": [
+      "Gender",
+      "Marital Status",
+      "Education Level",
+      "Employment Type",
+      "Existing Loan Status",
+      "Loan Type",
+      "Loan Purpose",
+      "Collateral Availability",
+      "Guarantor Availability",
+      "Required Documents Submitted"
+    ],
+    "nominal_count": 10,
+    "one_hot_encoded_feature_count": 49,
+    "leakage_prevention": "ColumnTransformer fitted strictly on X_train only"
+  }
+}
